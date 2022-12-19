@@ -1,0 +1,217 @@
+{
+  "main": [
+    {
+      "news":[
+        {
+          "name_ru": "Новинки",
+          "name_en": "New",
+          "mods": [
+            {
+              "id": 24,
+              "name": "Gamma Utils",
+              "img": "https://storage.eightyseven.ru/images/gammautils.png",
+              "description_ru": "Опробуйте новый мод, меняющий яркость игры, благодаря чему можно не волноваться насчёт освещения в шахте. Активация на клавишу G.\n\nБудьте осторожны! — модификация может быть запрещена на вашем сервере",
+              "description_en": "Try out a new mod that changes the brightness of the game so you don't have to worry about lighting in the mine. Activation on the G key.\n\nBe careful! - modification may be prohibited on your server",
+              "category": "Visual",
+              "downloads": "110K",
+              "size": "<1",
+              "requiredMods": [
+                {
+                  "id": 23,
+                  "name": "Cloth Config API",
+                  "img": "https://storage.eightyseven.ru/images/clothconfig.png",
+                  "description_ru": "Библиотека, позволяющая другим Minecraft модам использовать API для работы с интерфейсом настроек",
+                  "description_en": "A library that allows other Minecraft mods to use the API to work with the settings interface",
+                  "category": "Important",
+                  "downloads": "40M",
+                  "size": "1",
+                  "requiredMods": [],
+                  "versions": [
+                    {
+                      "name": "1.19.2",
+                      "downloadURL": "https://storage.eightyseven.ru/mods/ClothConfig1.19.jar"
+                    },
+                    {
+                      "name": "1.19",
+                      "downloadURL": "https://storage.eightyseven.ru/mods/ClothConfig1.19.jar"
+                    }
+                  ],
+                  "downloadURL": "https://storage.eightyseven.ru/mods/ClothConfig1.19.jar"
+                }
+              ],
+              "versions": [
+                {
+                  "name": "1.19.2",
+                  "downloadURL": "https://storage.eightyseven.ru/mods/GammaUtils1.19.jar"
+                },
+                {
+                  "name": "1.19",
+                  "downloadURL": "https://storage.eightyseven.ru/mods/GammaUtils1.19.jar"
+                }
+              ],
+              "downloadURL": "https://storage.eightyseven.ru/mods/GammaUtils1.19.jar"
+            },
+            {
+              "id": 23,
+              "name": "Terralith",
+              "img": "https://storage.eightyseven.ru/images/terralith.png",
+              "description_ru": "Масштабная модификация, которая полностью переработает генерацию поверхности мира и пещер. Она добавит более шестидесяти пяти уникальных биомов и обновит ванильные без добавления каких-либо новых блоков",
+              "description_en": "A large-scale modification that will completely rework the generation of the surface of the world and caves. It will add over sixty-five unique biomes and update the vanilla ones without adding any new blocks",
+              "category": "RPG",
+              "downloads": "4M",
+              "size": "4.6",
+              "requiredMods": [],
+              "versions": [
+                {
+                  "name": "1.19",
+                  "downloadURL": "https://storage.eightyseven.ru/mods/Terralith1.19.jar"
+                }
+              ],
+              "downloadURL": "https://storage.eightyseven.ru/mods/Terralith1.19.jar"
+            }
+          ]
+        }
+      ],
+      "recommended": [
+        {
+          "name_ru": "Рекомендуемое",
+          "name_en": "Recommended",
+          "mods": [
+            {
+              "id": 19,
+              "name": "AppleSkin",
+              "img": "https://storage.eightyseven.ru/images/AppleSkin.png",
+              "description_ru": "Модификация добавит вырезанные из AppleCore твики, которые покажут насколько насытит вас та или иная еда и визуализируют насыщение в интерфейсе голода",
+              "description_en": "The modification will add tweaks cut from AppleCore that will show how full this or that food will fill you and visualize saturation in the hunger interface",
+              "category": "Visual",
+              "downloads": "117M",
+              "size": "1",
+              "requiredMods": [],
+              "versions": [
+                {
+                  "name": "1.19",
+                  "downloadURL": "https://storage.eightyseven.ru/mods/AppleSkin1.19.jar"
+                }
+              ],
+              "downloadURL": "https://storage.eightyseven.ru/mods/AppleSkin1.19.jar"
+            },
+            {
+              "id": 12,
+              "name": "Litematica",
+              "img": "https://storage.eightyseven.ru/images/litematica.png",
+              "description_ru": "Данный мод является наследником некогда популярного мода Schematica. Основной его функцией является возможность копировать существующие постройки в файлы, а после размещать их в других мирах используя предпросмотр в виде голограмм",
+              "description_en": "This mod is the successor of the once popular Schematica mod. Its main function is the ability to copy existing buildings to files, and then place them in other worlds using a preview in the form of holograms",
+              "category": "Important",
+              "downloads": "2.7M",
+              "size": "<1",
+              "requiredMods": [
+              {
+                "id": 13,
+                "name": "MaliLib",
+                "img": "https://storage.eightyseven.ru/images/malilib.png",
+                "description_ru": "Мод для библиотеки, необходимый для модов masa LiteLoader, Rift и Fabric",
+                "description_en": "Library mod required for masa LiteLoader, Rift and Fabric mods",
+                "category": "Important",
+                "downloads": "3.6M",
+                "size": "<1",
+                "requiredMods": [],
+                "versions": [
+                    {
+                        "name": "1.19",
+                        "downloadURL": "https://storage.eightyseven.ru/mods/Malilib1.19.jar"
+                    },
+                    {
+                        "name": "1.18.1",
+                        "downloadURL": "https://storage.eightyseven.ru/mods/MaLiLib1.18.1.jar"
+                    }
+                ],
+                "downloadURL": "https://storage.eightyseven.ru/mods/Malilib1.19.jar"
+                }
+              ],
+              "versions": [
+                {
+                  "name": "1.19",
+                  "downloadURL": "https://storage.eightyseven.ru/mods/Litematica1.19.jar"
+                },
+                {
+                  "name": "1.18.1",
+                  "downloadURL": "https://storage.eightyseven.ru/mods/Litematica1.18.1.jar"
+                }
+              ],
+              "downloadURL": "https://storage.eightyseven.ru/mods/Litematica1.19.jar"
+            },
+            {
+              "id": 8,
+              "name": "Plasmo Voice",
+              "img": "https://storage.eightyseven.ru/images/plasmovoice.png",
+              "description_ru": "Голосовой чат для серверов",
+              "description_en": "Voice chat for servers",
+              "category": "Sounds",
+              "downloads": "290K",
+              "size": "4.6",
+              "requiredMods": [],
+              "versions": [
+                {
+                  "name": "1.19",
+                  "downloadURL": "https://storage.eightyseven.ru/mods/PlasmoVoice1.19.jar"
+                },
+                {
+                  "name": "1.18.1",
+                  "downloadURL": "https://storage.eightyseven.ru/mods/PlasmoVoice1.18.1.jar"
+                }
+              ],
+              "downloadURL": "https://storage.eightyseven.ru/mods/PlasmoVoice1.19.jar"
+            },
+            {
+              "id": 5,
+              "name": "Logical Zoom",
+              "img": "https://storage.eightyseven.ru/images/logicalzoom.png",
+              "description_ru": "Приближение на клавишу C для Sodium",
+              "description_en": "C key zoom for Sodium",
+              "category": "Visual",
+              "downloads": "920K",
+              "size": "<1",
+              "requiredMods": [],
+              "versions": [
+                {
+                  "name": "1.19",
+                  "downloadURL": "https://storage.eightyseven.ru/mods/LogicalZoom1.19.jar"
+                }
+              ],
+              "downloadURL": "https://storage.eightyseven.ru/mods/LogicalZoom1.19.jar"
+            }
+          ]
+        }
+      ],
+      "jEvent": [
+        {
+          "enabled": true,
+          "name_ru": "Новый год",
+          "name_en": "Сhristmas",
+          "size_ru": 100,
+          "size_en": 100,
+          "mods": [
+            {
+              "id": 41,
+              "name": "Snowy Spirit",
+              "img": "https://storage.eightyseven.ru/images/SnowySpirit.png",
+              "description_ru": "Мод на зимнюю тематику, состоящий из декоративных блоков и различных нововведений. У вас появится новый вид транспорта — сани, а у жителей будет изменено поведение, они будут размещать возле домов праздничные венки и новогодние подарки",
+              "description_en": "A winter-themed mod consisting of decorative blocks and various innovations. You will have a new type of transport - a sled, and the behavior of the inhabitants will be changed, they will place holiday wreaths and New Year's gifts near the houses",
+              "category": "RPG",
+              "downloads": "2M",
+              "size": "4.8",
+              "requiredMods": [],
+              "versions": [
+                {
+                  "name": "1.19.2",
+                  "downloadURL": "https://storage.eightyseven.ru/mods/SnowySpirit1.19.2.jar"
+                }
+              ],
+              "downloadURL": "https://storage.eightyseven.ru/mods/SnowySpirit1.19.2.jar"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "news":[
+    {
+      "id": 24,
+      "name": "Gamma Utils",
+      "img": "https://storage.eightyseven.ru/images/gammautils.png",
+      "description_ru": "Опробуйте новый мод, меняющий яркость игры, благодаря чему можно не волноваться насчёт освещения в шахте. Активация на клавишу G.\n\nБудьте осторожны! — модификация может быть запрещена на вашем сервере",
+      "description_en": "Try out a new mod that changes the brightness of the game so you don't have to worry about lighting in the mine. Activation on the G key.\n\nBe careful! - modification may be prohibited on your server",
+      "category": "Visual",
+      "downloads": "110K",
+      "size": "<1",
+      "requiredMods": [
+        {
+          "id": 23,
+          "name": "Cloth Config API",
+          "img": "https://storage.eightyseven.ru/images/clothconfig.png",
+          "description_ru": "Библиотека, позволяющая другим Minecraft модам использовать API для работы с интерфейсом настроек",
+          "description_en": "A library that allows other Minecraft mods to use the API to work with the settings interface",
+          "category": "Important",
+          "downloads": "40M",
+          "size": "1",
+          "requiredMods": [],
+          "versions": [
+            {
+              "name": "1.19.2",
+              "downloadURL": "https://storage.eightyseven.ru/mods/ClothConfig1.19.jar"
+            },
+            {
+              "name": "1.19",
+              "downloadURL": "https://storage.eightyseven.ru/mods/ClothConfig1.19.jar"
+            }
+          ],
+          "downloadURL": "https://storage.eightyseven.ru/mods/ClothConfig1.19.jar"
+        }
+      ],
+      "versions": [
+        {
+          "name": "1.19.2",
+          "downloadURL": "https://storage.eightyseven.ru/mods/GammaUtils1.19.jar"
+        },
+        {
+          "name": "1.19",
+          "downloadURL": "https://storage.eightyseven.ru/mods/GammaUtils1.19.jar"
+        }
+      ],
+      "downloadURL": "https://storage.eightyseven.ru/mods/GammaUtils1.19.jar"
+    },
+    {
+      "id": 23,
+      "name": "Terralith",
+      "img": "https://storage.eightyseven.ru/images/terralith.png",
+      "description_ru": "Масштабная модификация, которая полностью переработает генерацию поверхности мира и пещер. Она добавит более шестидесяти пяти уникальных биомов и обновит ванильные без добавления каких-либо новых блоков",
+      "description_en": "A large-scale modification that will completely rework the generation of the surface of the world and caves. It will add over sixty-five unique biomes and update the vanilla ones without adding any new blocks",
+      "category": "RPG",
+      "downloads": "4M",
+      "size": "4.6",
+      "requiredMods": [],
+      "versions": [
+        {
+          "name": "1.19",
+          "downloadURL": "https://storage.eightyseven.ru/mods/Terralith1.19.jar"
+        }
+      ],
+      "downloadURL": "https://storage.eightyseven.ru/mods/Terralith1.19.jar"
+    }
+  ]
+}
