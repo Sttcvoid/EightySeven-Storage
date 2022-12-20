@@ -4,201 +4,201 @@
         "id": 0,
         "name_ru": "Lithium",
         "name_en": "Lithium",
-        "img": "https://storage.eightyseven.ru/images/optimization/Lith.png",
+        "img": "https://storage.eightyseven.ru/mods/images/optimization/Lith.png",
         "description_ru": "Данный мод оптимизирует серверную часть игры, что приведет к улучшению частоты кадров и скорости отклика",
         "description_en": "This mod optimizes the server side of the game, which will lead  to improve the frame rate and response speed",
         "FPSup": 53,
         "versions": [
             {
               "name": "1.19.2",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/Lithium1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/Lithium1.19.jar"
             },
             {
               "name": "1.19",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/Lithium1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/Lithium1.19.jar"
             }
         ],
-        "downloadURL": "https://storage.eightyseven.ru/mods/optimization/Lithium1.19.jar"
+        "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/Lithium1.19.jar"
     },
     {
         "id": 1, 
         "name_ru": "Оптимизация при сворачивании",
         "name_en": "Collapsing optimization",
-        "img": "https://storage.eightyseven.ru/images/optimization/DynamicFPS.png",
+        "img": "https://storage.eightyseven.ru/mods/images/optimization/DynamicFPS.png",
         "description_ru": "Мод, который будет автоматически снижать FPS во время сворачивания и бездействия игры.\n\nЭто позволит значительно снизить нагрузку на компьютер",
         "description_en": "A mod that will automatically reduce FPS when the game is minimized and idle.\n\nThis will significantly reduce the load on the computer",
         "FPSup": 0,
         "versions": [
             {
               "name": "1.19.2",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/DynamicFPS1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/DynamicFPS1.19.jar"
             },
             {
               "name": "1.19",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/DynamicFPS1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/DynamicFPS1.19.jar"
             }
         ],
-        "downloadURL": "https://storage.eightyseven.ru/mods/optimization/DynamicFPS1.19.jar"
+        "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/DynamicFPS1.19.jar"
     },
     {
         "id": 2,
         "name_ru": "LazyDFU",
         "name_en": "LazyDFU",
-        "img": "https://storage.eightyseven.ru/images/optimization/LazyDFU.png",
+        "img": "https://storage.eightyseven.ru/mods/images/optimization/LazyDFU.png",
         "description_ru": "Эта модификация оптимизирующая и ускоряющая запуск игры, с ним загрузка игры будет происходить быстрее, особенно это заметно на слабых компьютерах.\n\nМодификация отключает ресурс затратную операцию загрузки функций связанных с конвертацией миров с более старых версий игры на новые",
         "description_en": "This modification optimizes and speeds up the launch of the game, with it the game will load faster, especially  noticeable on weak computers.\n\nThe modification disables the resource-consuming operation of loading functions associated with converting worlds from older versions of the game to new ones",
         "FPSup": 0,
         "versions": [
             {
               "name": "1.19.2",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/LazyDFU1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/LazyDFU1.19.jar"
             },
             {
               "name": "1.19",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/LazyDFU1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/LazyDFU1.19.jar"
             }
         ],
-        "downloadURL": "https://storage.eightyseven.ru/mods/optimization/LazyDFU1.19.jar"
+        "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/LazyDFU1.19.jar"
     },
     {
         "id": 3,
         "name_ru": "Отключение эффектов погоды",
         "name_en": "Disabling weather effects",
-        "img": "https://storage.eightyseven.ru/images/optimization/NoWeatherEffects.png",
+        "img": "https://storage.eightyseven.ru/mods/images/optimization/NoWeatherEffects.png",
         "description_ru": "Отключает визуальные эффекты погоды, что значительно помогает повысить FPS",
         "description_en": "Disables visual weather effects, which greatly helps increase FPS",
         "FPSup": 22,
         "versions": [
             {
               "name": "1.19.2",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/NoWeatherEffects1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/NoWeatherEffects1.19.jar"
             },
             {
               "name": "1.19",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/NoWeatherEffects1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/NoWeatherEffects1.19.jar"
             }
         ],
-        "downloadURL": "https://storage.eightyseven.ru/mods/optimization/NoWeatherEffects1.19.jar"
+        "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/NoWeatherEffects1.19.jar"
     },
     {
         "id": 4,
         "name_ru": "Удаление тумана",
         "name_en": "Fog removal",
-        "img": "https://storage.eightyseven.ru/images/optimization/NoFog.png",
+        "img": "https://storage.eightyseven.ru/mods/images/optimization/NoFog.png",
         "description_ru": "Простой, но очень полезный мод для игроков со слабыми компьютерами, благодаря этому моду можно видеть дальше не увеличивая дальность прорисовки мира, а значит можно видеть дальше не теряя в производительности игры",
         "description_en": "A simple but very useful mod for players with weak computers, thanks to this mod you can see farther without increasing the world draw distance, which means you can see farther without losing game performance",
         "FPSup": 7,
         "versions": [
             {
               "name": "1.19.2",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/NoFog1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/NoFog1.19.jar"
             },
             {
               "name": "1.19",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/NoFog1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/NoFog1.19.jar"
             }
         ],
-        "downloadURL": "https://storage.eightyseven.ru/mods/optimization/NoFog1.19.jar"
+        "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/NoFog1.19.jar"
     },
     {
         "id": 5,
         "name_ru": "Phosphor",
         "name_en": "Phosphor",
-        "img": "https://storage.eightyseven.ru/images/optimization/Phosphor.png",
+        "img": "https://storage.eightyseven.ru/mods/images/optimization/Phosphor.png",
         "description_ru": "Данный мод оптимизирует игровой движок освещения в Minecraft, тем самым ускоряя работу и позволяя экономить огромное время при генерации стандартных и модифицированных измерений",
         "description_en": "This mod optimizes the lighting engine in Minecraft, thereby speeding up work and saving huge time when generating standard and modified dimensions",
         "FPSup": 0,
         "versions": [
             {
               "name": "1.19.2",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/Phosphor1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/Phosphor1.19.jar"
             },
             {
               "name": "1.19",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/Phosphor1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/Phosphor1.19.jar"
             }
         ],
-        "downloadURL": "https://storage.eightyseven.ru/mods/optimization/Phosphor1.19.jar"
+        "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/Phosphor1.19.jar"
     },
     {
         "id": 6,
         "name_ru": "Оптимизация листвы",
         "name_en": "Foliage optimization",
-        "img": "https://storage.eightyseven.ru/images/optimization/CullLeaves.png",
+        "img": "https://storage.eightyseven.ru/mods/images/optimization/CullLeaves.png",
         "description_ru": "Модификация изменит механику отображения блоков листы, воспроизводя функцию Smart Leaves в Optifine.\n\nЭтот мод позволит неплохо повысить производительность игры",
         "description_en": "The modification will change the mechanics of displaying sheet blocks, reproducing the Smart Leaves feature of Optifine.\n\nThis mod will improve the performance of the game",
         "FPSup": 10,
         "versions": [
             {
               "name": "1.19.2",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/CullLeaves1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/CullLeaves1.19.jar"
             },
             {
               "name": "1.19",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/CullLeaves1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/CullLeaves1.19.jar"
             }
         ],
-        "downloadURL": "https://storage.eightyseven.ru/mods/optimization/CullLeaves1.19.jar"
+        "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/CullLeaves1.19.jar"
     },
     {
         "id": 7,
         "name_ru": "Оптимизация сущностей",
         "name_en": "Entity optimization",
-        "img": "https://storage.eightyseven.ru/images/optimization/EntityCulling.png",
+        "img": "https://storage.eightyseven.ru/mods/images/optimization/EntityCulling.png",
         "description_ru": "Если сущность закрыта постройками, то игра перестает просчитывать эту сущность и тратить на неё ресурсы вашего пк, что может улучшить производительность игры, особенно в заспамленных местах",
         "description_en": "If an entity is covered by buildings, then the game stops calculating this entity and spending your PC resources on it, which can improve game performance, especially in spammed places",
         "FPSup": 24,
         "versions": [
             {
               "name": "1.19.2",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/EntityCulling1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/EntityCulling1.19.jar"
             },
             {
               "name": "1.19",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/EntityCulling1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/EntityCulling1.19.jar"
             }
         ],
-        "downloadURL": "https://storage.eightyseven.ru/mods/optimization/EntityCulling1.19.jar"
+        "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/EntityCulling1.19.jar"
     },
     {
         "id": 8,
         "name_ru": "Ferrite core",
         "name_en": "Ferrite core",
-        "img": "https://storage.eightyseven.ru/images/optimization/FerriteCore.png",
+        "img": "https://storage.eightyseven.ru/mods/images/optimization/FerriteCore.png",
         "description_ru": "Это мод на оптимизацию потребления оперативной памяти, с модом игра будет требовать в разы меньше оперативной памяти",
         "description_en": "This is a mod to optimize the consumption of RAM, with the mod the game will require many times less RAM",
         "FPSup": 0,
         "versions": [
             {
               "name": "1.19.2",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/FerriteCore1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/FerriteCore1.19.jar"
             },
             {
               "name": "1.19",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/FerriteCore1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/FerriteCore1.19.jar"
             }
         ],
-        "downloadURL": "https://storage.eightyseven.ru/mods/optimization/FerriteCore1.19.jar"
+        "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/FerriteCore1.19.jar"
     },
     {
         "id": 9,
         "name_ru": "Оптимизация блочных сущностей",
         "name_en": "Block entity optimization",
-        "img": "https://storage.eightyseven.ru/images/optimization/EnhancedBlockEntities.png",
+        "img": "https://storage.eightyseven.ru/mods/images/optimization/EnhancedBlockEntities.png",
         "description_ru": "Данные мод нацелен на повышение производительности игры путем оптимизации рендеринга блочных сущностей.\n\nНа данный момент мод улучшит работу с сундуками, увеличивая производительность при большом количестве установленных сундуков",
         "description_en": "This mod aims to improve game performance by optimizing the rendering of block entities.\n\nAt the moment, the mod will improve the work with chests, increasing performance with a large number of installed chests",
         "FPSup": 12,
         "versions": [
             {
               "name": "1.19.2",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/EnhancedBlockEntities1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/EnhancedBlockEntities1.19.jar"
             },
             {
               "name": "1.19",
-              "downloadURL": "https://storage.eightyseven.ru/mods/optimization/EnhancedBlockEntities1.19.jar"
+              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/EnhancedBlockEntities1.19.jar"
             }
         ],
-        "downloadURL": "https://storage.eightyseven.ru/mods/optimization/EnhancedBlockEntities1.19.jar"
+        "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/EnhancedBlockEntities1.19.jar"
     }
   ]
 }
