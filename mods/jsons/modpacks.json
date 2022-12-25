@@ -1,0 +1,16 @@
+{
+    "modpacks":[
+        {
+            "id": 0,
+            "name": "Song of The East",
+            "img": "https://storage.eightyseven.ru/mods/images/modpacks/Song-of-The-East.png",
+            "trailer": "https://youtu.be/mPrtWLU-5UU",
+            "description_ru": "Это магическая сборка с уклоном на восточную тематику. Играя в данный модпак, Вы погрузитесь в новый, волшебный мир, сможете изучить созвездия и магию мелодии. Путешествуйте, собирайте цветы и исследуйте ещё неизведанные земли!",
+            "description_en": "This is a magical assembly with an oriental focus. Playing this modpack, you will immerse yourself in a new, magical world, you can explore the constellations and the magic of the melody. Travel, pick flowers and explore unexplored lands!",
+            "genres": ["Magic", "Adventures"],
+            "size": "309",
+            "version": "1.12.2",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/modpacks/Song-of-The-East.zip"
+        }
+    ]
+}
