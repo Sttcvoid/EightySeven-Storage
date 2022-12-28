@@ -7,48 +7,10 @@
           "name_en": "New",
           "mods": [
             {
-              "id": 40,
-              "name": "Snowy Spirit",
-              "img": "https://storage.eightyseven.ru/mods/images/SnowySpirit.png",
-              "description_ru": "Мод на зимнюю тематику, состоящий из декоративных блоков и различных нововведений. У вас появится новый вид транспорта — сани, а у жителей будет изменено поведение, они будут размещать возле домов праздничные венки и новогодние подарки",
-              "description_en": "A winter-themed mod consisting of decorative blocks and various innovations. You will have a new type of transport - a sled, and the behavior of the inhabitants will be changed, they will place holiday wreaths and New Year's gifts near the houses",
-              "category": "RPG",
-              "downloads": "2M",
-              "size": "4.8",
-              "requiredMods": [],
-              "versions": [
-                {
-                  "name": "1.19.2",
-                  "downloadURL": "https://storage.eightyseven.ru/mods/files/SnowySpirit1.19.2.jar"
-                }
-              ],
-              "downloadURL": "https://storage.eightyseven.ru/mods/files/SnowySpirit1.19.2.jar"
+              "id": 40
             },
             {
-                "id": 41,
-                "name": "Primal Winter",
-                "img": "https://storage.eightyseven.ru/mods/images/PrimalWinter.png",
-                "description_ru": "Этот мод превратит весь мир в промерзшую пустошь, земля будет покрыта снегом а в воздухе появится густой туман. Везде будут спауниться белые медведи и зимогоры, также во всех биомах могут появляться ледяные пики, айсберги и ледяные пруды",
-                "description_en": "This mod will turn the whole world into a frozen wasteland, the ground will be covered with snow and a thick fog will appear in the air. Polar bears and zimogors will spawn everywhere, and ice peaks, icebergs and ice ponds can also appear in all biomes",
-                "category": "RPG",
-                "downloads": "200K",
-                "size": "<1",
-                "requiredMods": [],
-                "versions": [
-                  {
-                    "name": "1.19.2",
-                    "downloadURL": "https://storage.eightyseven.ru/mods/files/PrimalWinter1.19.2.jar"
-                  },
-                  {
-                    "name": "1.18.2",
-                    "downloadURL": "https://storage.eightyseven.ru/mods/files/PrimalWinter1.18.2.jar"
-                  },
-                  {
-                    "name": "1.16.5",
-                    "downloadURL": "https://storage.eightyseven.ru/mods/files/PrimalWinter1.16.5.jar"
-                  }
-                ],
-                "downloadURL": "https://storage.eightyseven.ru/mods/files/PrimalWinter1.19.2.jar"
+                "id": 41
             }
           ]
         }
@@ -59,107 +21,16 @@
           "name_en": "Recommended",
           "mods": [
             {
-              "id": 19,
-              "name": "AppleSkin",
-              "img": "https://storage.eightyseven.ru/mods/images/AppleSkin.png",
-              "description_ru": "Модификация добавит вырезанные из AppleCore твики, которые покажут насколько насытит вас та или иная еда и визуализируют насыщение в интерфейсе голода",
-              "description_en": "The modification will add tweaks cut from AppleCore that will show how full this or that food will fill you and visualize saturation in the hunger interface",
-              "category": "Visual",
-              "downloads": "117M",
-              "size": "1",
-              "requiredMods": [],
-              "versions": [
-                {
-                  "name": "1.19",
-                  "downloadURL": "https://storage.eightyseven.ru/mods/files/AppleSkin1.19.jar"
-                }
-              ],
-              "downloadURL": "https://storage.eightyseven.ru/mods/files/AppleSkin1.19.jar"
+              "id": 19
             },
             {
-              "id": 12,
-              "name": "Litematica",
-              "img": "https://storage.eightyseven.ru/mods/images/litematica.png",
-              "description_ru": "Данный мод является наследником некогда популярного мода Schematica. Основной его функцией является возможность копировать существующие постройки в файлы, а после размещать их в других мирах используя предпросмотр в виде голограмм",
-              "description_en": "This mod is the successor of the once popular Schematica mod. Its main function is the ability to copy existing buildings to files, and then place them in other worlds using a preview in the form of holograms",
-              "category": "Important",
-              "downloads": "2.7M",
-              "size": "<1",
-              "requiredMods": [
-              {
-                "id": 13,
-                "name": "MaliLib",
-                "img": "https://storage.eightyseven.ru/mods/images/malilib.png",
-                "description_ru": "Мод для библиотеки, необходимый для модов masa LiteLoader, Rift и Fabric",
-                "description_en": "Library mod required for masa LiteLoader, Rift and Fabric mods",
-                "category": "Important",
-                "downloads": "3.6M",
-                "size": "<1",
-                "requiredMods": [],
-                "versions": [
-                    {
-                        "name": "1.19",
-                        "downloadURL": "https://storage.eightyseven.ru/mods/files/Malilib1.19.jar"
-                    },
-                    {
-                        "name": "1.18.1",
-                        "downloadURL": "https://storage.eightyseven.ru/mods/files/MaLiLib1.18.1.jar"
-                    }
-                ],
-                "downloadURL": "https://storage.eightyseven.ru/mods/files/Malilib1.19.jar"
-                }
-              ],
-              "versions": [
-                {
-                  "name": "1.19",
-                  "downloadURL": "https://storage.eightyseven.ru/mods/files/Litematica1.19.jar"
-                },
-                {
-                  "name": "1.18.1",
-                  "downloadURL": "https://storage.eightyseven.ru/mods/files/Litematica1.18.1.jar"
-                }
-              ],
-              "downloadURL": "https://storage.eightyseven.ru/mods/files/Litematica1.19.jar"
+              "id": 12
             },
             {
-              "id": 8,
-              "name": "Plasmo Voice",
-              "img": "https://storage.eightyseven.ru/mods/images/plasmovoice.png",
-              "description_ru": "Голосовой чат для серверов",
-              "description_en": "Voice chat for servers",
-              "category": "Sounds",
-              "downloads": "290K",
-              "size": "4.6",
-              "requiredMods": [],
-              "versions": [
-                {
-                  "name": "1.19",
-                  "downloadURL": "https://storage.eightyseven.ru/mods/files/PlasmoVoice1.19.jar"
-                },
-                {
-                  "name": "1.18.1",
-                  "downloadURL": "https://storage.eightyseven.ru/mods/files/PlasmoVoice1.18.1.jar"
-                }
-              ],
-              "downloadURL": "https://storage.eightyseven.ru/mods/files/PlasmoVoice1.19.jar"
+              "id": 8
             },
             {
-              "id": 5,
-              "name": "Logical Zoom",
-              "img": "https://storage.eightyseven.ru/mods/images/logicalzoom.png",
-              "description_ru": "Приближение на клавишу C для Sodium",
-              "description_en": "C key zoom for Sodium",
-              "category": "Visual",
-              "downloads": "920K",
-              "size": "<1",
-              "requiredMods": [],
-              "versions": [
-                {
-                  "name": "1.19",
-                  "downloadURL": "https://storage.eightyseven.ru/mods/files/LogicalZoom1.19.jar"
-                }
-              ],
-              "downloadURL": "https://storage.eightyseven.ru/mods/files/LogicalZoom1.19.jar"
+              "id": 5
             }
           ]
         }
@@ -168,53 +39,15 @@
         {
           "enabled": true,
           "name_ru": "Новый год",
-          "name_en": "Сhristmas",
+          "name_en": "Christmas",
           "size_ru": 100,
           "size_en": 100,
           "mods": [
             {
-              "id": 40,
-              "name": "Snowy Spirit",
-              "img": "https://storage.eightyseven.ru/mods/images/SnowySpirit.png",
-              "description_ru": "Мод на зимнюю тематику, состоящий из декоративных блоков и различных нововведений. У вас появится новый вид транспорта — сани, а у жителей будет изменено поведение, они будут размещать возле домов праздничные венки и новогодние подарки",
-              "description_en": "A winter-themed mod consisting of decorative blocks and various innovations. You will have a new type of transport - a sled, and the behavior of the inhabitants will be changed, they will place holiday wreaths and New Year's gifts near the houses",
-              "category": "RPG",
-              "downloads": "2M",
-              "size": "4.8",
-              "requiredMods": [],
-              "versions": [
-                {
-                  "name": "1.19.2",
-                  "downloadURL": "https://storage.eightyseven.ru/mods/files/SnowySpirit1.19.2.jar"
-                }
-              ],
-              "downloadURL": "https://storage.eightyseven.ru/mods/files/SnowySpirit1.19.2.jar"
+              "id": 40
             },
             {
-                "id": 41,
-                "name": "Primal Winter",
-                "img": "https://storage.eightyseven.ru/mods/images/PrimalWinter.png",
-                "description_ru": "Этот мод превратит весь мир в промерзшую пустошь, земля будет покрыта снегом а в воздухе появится густой туман. Везде будут спавниться белые медведи и зимогоры, также во всех биомах могут появляться ледяные пики, айсберги и ледяные пруды",
-                "description_en": "This mod will turn the whole world into a frozen wasteland, the ground will be covered with snow and a thick fog will appear in the air. Polar bears and zimogors will spawn everywhere, and ice peaks, icebergs and ice ponds can also appear in all biomes",
-                "category": "RPG",
-                "downloads": "200K",
-                "size": "<1",
-                "requiredMods": [],
-                "versions": [
-                  {
-                    "name": "1.19.2",
-                    "downloadURL": "https://storage.eightyseven.ru/mods/files/PrimalWinter1.19.2.jar"
-                  },
-                  {
-                    "name": "1.18.2",
-                    "downloadURL": "https://storage.eightyseven.ru/mods/files/PrimalWinter1.18.2.jar"
-                  },
-                  {
-                    "name": "1.16.5",
-                    "downloadURL": "https://storage.eightyseven.ru/mods/files/PrimalWinter1.16.5.jar"
-                  }
-                ],
-                "downloadURL": "https://storage.eightyseven.ru/mods/files/PrimalWinter1.19.2.jar"
+              "id": 41
             }
           ]
         }
