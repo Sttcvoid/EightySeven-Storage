@@ -122,26 +122,6 @@
     },
     {
         "id": 6,
-        "name_ru": "Оптимизация листвы",
-        "name_en": "Foliage optimization",
-        "img": "https://storage.eightyseven.ru/mods/images/optimization/CullLeaves.png",
-        "description_ru": "Модификация изменит механику отображения блоков листы, воспроизводя функцию Smart Leaves в Optifine.\n\nЭтот мод позволит неплохо повысить производительность игры",
-        "description_en": "The modification will change the mechanics of displaying sheet blocks, reproducing the Smart Leaves feature of Optifine.\n\nThis mod will improve the performance of the game",
-        "FPSup": 10,
-        "versions": [
-            {
-              "name": "1.19.2",
-              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/CullLeaves1.19.jar"
-            },
-            {
-              "name": "1.19",
-              "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/CullLeaves1.19.jar"
-            }
-        ],
-        "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/CullLeaves1.19.jar"
-    },
-    {
-        "id": 7,
         "name_ru": "Оптимизация сущностей",
         "name_en": "Entity optimization",
         "img": "https://storage.eightyseven.ru/mods/images/optimization/EntityCulling.png",
@@ -161,7 +141,7 @@
         "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/EntityCulling1.19.jar"
     },
     {
-        "id": 8,
+        "id": 7,
         "name_ru": "Ferrite core",
         "name_en": "Ferrite core",
         "img": "https://storage.eightyseven.ru/mods/images/optimization/FerriteCore.png",
@@ -181,7 +161,7 @@
         "downloadURL": "https://storage.eightyseven.ru/mods/files/optimization/FerriteCore1.19.jar"
     },
     {
-        "id": 9,
+        "id": 8,
         "name_ru": "Оптимизация блочных сущностей",
         "name_en": "Block entity optimization",
         "img": "https://storage.eightyseven.ru/mods/images/optimization/EnhancedBlockEntities.png",
