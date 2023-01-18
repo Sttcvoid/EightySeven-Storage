@@ -1152,6 +1152,104 @@
           }
         ],
         "downloadURL": "https://storage.eightyseven.ru/mods/files/PrimalWinter1.19.2.jar"
+    },
+    {
+        "id": 42,
+        "name": "Toro Health",
+        "img": "https://storage.eightyseven.ru/mods/images/ToroHealth.png",
+        "description_ru": "Показывает здоровье вашего соперника/моба и показывает сколько вы отнимаете ему при ударе или сколько HP моб регенерирует. Действует на игроков в мультиплеере. При попадании моба в область прицела вы увидите подсказку которая покажет его название, превью, здоровье в цифрах и полоской",
+        "description_en": "Shows the health of your opponent/mob and shows how much you take away from him when hit, or how much HP the mob regenerates. Affects players in multiplayer. When a mob hits the target area, you will see a tooltip that will show its name, preview, health in numbers and a bar",
+        "category": "Visual",
+        "downloads": "13M",
+        "size": "<1",
+        "requiredMods": [],
+        "versions": [
+          {
+            "name": "1.19",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/ToroHealth1.19.jar"
+          },
+          {
+            "name": "1.18.2",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/ToroHealth1.18.2.jar"
+          },
+          {
+            "name": "1.17.1",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/ToroHealth1.17.1.jar"
+          },
+          {
+            "name": "1.16.5",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/ToroHealth1.16.5.jar"
+          },
+          {
+            "name": "1.15.2",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/ToroHealth1.15.2.jar"
+          }
+        ],
+        "downloadURL": "https://storage.eightyseven.ru/mods/files/ToroHealth1.19.jar"
+    },
+    {
+        "id": 43,
+        "name": "Chest Tracker",
+        "img": "https://storage.eightyseven.ru/mods/images/ChestTracker.png",
+        "description_ru": "С данным модом после закрытия блоков-хранилищ будет записываться информация о находящихся внутри них блоках, позволяя вам в любой момент искать с помощью фильтра нужные предметы в ближайших хранилищах. При выборе нужного элемента нужный вам сундук будет подсвечиваться",
+        "description_en": "With this mod, after the storage blocks are closed, information about the blocks inside them will be recorded, allowing you to search for the necessary items in the nearest storages using the filter at any time. When you select the desired item, the chest you need will be highlighted",
+        "category": "Visual",
+        "downloads": "400K",
+        "size": "<1",
+        "requiredMods": [],
+        "versions": [
+          {
+            "name": "1.19.2",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/ChestTracker1.19.jar"
+          },
+          {
+            "name": "1.19",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/ChestTracker1.19.jar"
+          },
+          {
+            "name": "1.18.2",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/ChestTracker1.18.2.jar"
+          },
+          {
+            "name": "1.17.1",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/ChestTracker1.17.1.jar"
+          }
+        ],
+        "downloadURL": "https://storage.eightyseven.ru/mods/files/ChestTracker1.19.jar"
+    },
+    {
+        "id": 44,
+        "name": "Visual Overhaul",
+        "img": "https://storage.eightyseven.ru/mods/images/VisualOverhaul.png",
+        "description_ru": "Задача мода добавить в Minecraft визуальные улучшения, которые коснутся самых разных сфер игры. На данный момент изменится вид варочной стойки, проигрывателя и печи. Также в дождливую погоду будут появляться лужи, а во время метели слои снега будут накапливаться",
+        "description_en": "The task of the mod is to add visual improvements to minecraft that will affect various areas of the game. At the moment, the appearance of the brewing stand, player and oven will change. Also, in rainy weather, puddles will appear, and during a snowstorm, layers of snow will accumulate",
+        "category": "Visual",
+        "downloads": "200K",
+        "size": "<1",
+        "requiredMods": [],
+        "versions": [
+          {
+            "name": "1.19.2",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/VisualOverhaul1.19.jar"
+          },
+          {
+            "name": "1.19",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/VisualOverhaul1.19.jar"
+          },
+          {
+            "name": "1.18.2",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/VisualOverhaul1.18.2.jar"
+          },
+          {
+            "name": "1.17.1",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/VisualOverhaul1.17.1.jar"
+          },
+          {
+            "name": "1.16.5",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/VisualOverhaul1.16.5.jar"
+          }
+        ],
+        "downloadURL": "https://storage.eightyseven.ru/mods/files/VisualOverhaul1.19.jar"
     }
   ]
 }

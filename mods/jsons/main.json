@@ -7,10 +7,10 @@
           "name_en": "New",
           "mods": [
             {
-              "id": 40
+              "id": 44
             },
             {
-                "id": 41
+              "id": 43
             }
           ]
         }
@@ -37,7 +37,7 @@
       ],
       "jEvent": [
         {
-          "enabled": true,
+          "enabled": false,
           "name_ru": "Новый год",
           "name_en": "Christmas",
           "size_ru": 100,
