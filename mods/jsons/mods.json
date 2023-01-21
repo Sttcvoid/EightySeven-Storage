@@ -97,11 +97,11 @@
 		"versions": [
             {
                 "name": "1.19",
-                "downloadURL": "https://storage.eightyseven.ru/mods/files/Sodium1.19.jar"
+                "downloadURL": "https://storage.eightyseven.ru/mods/files/ModMenu1.19.jar"
             },
 			{
                 "name": "1.18.1",
-                "downloadURL": "https://storage.eightyseven.ru/mods/files/Sodium1.18.1.jar"
+                "downloadURL": "https://storage.eightyseven.ru/mods/files/ModMenu1.18.1.jar"
             }
 		],
         "downloadURL": "https://storage.eightyseven.ru/mods/files/ModMenu1.19.jar"
