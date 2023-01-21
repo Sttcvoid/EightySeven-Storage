@@ -1250,6 +1250,44 @@
           }
         ],
         "downloadURL": "https://storage.eightyseven.ru/mods/files/VisualOverhaul1.19.jar"
+    },
+    {
+        "id": 45,
+        "name": "Fabric API",
+        "img": "https://storage.eightyseven.ru/mods/images/FabricAPI.png",
+        "description_ru": "Базовая библиотека предоставляющая авторским модификациям набор инструментов для совместимости с Fabric Loader",
+        "description_en": "Basic library providing copyright modifications to a set of tools for compatibility with Fabric Loader",
+        "category": "Important",
+        "downloads": "45M",
+        "size": "1.5",
+        "requiredMods": [],
+        "versions": [
+          {
+            "name": "1.19.2",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/FabricAPI1.19.2.jar"
+          },
+          {
+            "name": "1.19",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/FabricAPI1.19.jar"
+          },
+          {
+            "name": "1.18.2",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/FabricAPI1.18.2.jar"
+          },
+          {
+            "name": "1.17.1",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/FabricAPI1.17.1.jar"
+          },
+          {
+            "name": "1.16.5",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/FabricAPI1.16.5.jar"
+          },
+          {
+            "name": "1.15.2",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/FabricAPI1.15.2.jar"
+          }
+        ],
+        "downloadURL": "https://storage.eightyseven.ru/mods/files/FabricAPI1.19.2.jar"
     }
   ]
 }
