@@ -732,6 +732,10 @@
             "downloadURL": "https://storage.eightyseven.ru/mods/files/LambDynamicLights1.19.2.jar"
           },
           {
+            "name": "1.19",
+            "downloadURL": "https://storage.eightyseven.ru/mods/files/LambDynamicLights1.19.2.jar"
+          },
+          {
             "name": "1.18.1",
             "downloadURL": "https://storage.eightyseven.ru/mods/files/LambDynamicLights1.18.1.jar"
           },
@@ -1254,7 +1258,7 @@
     {
         "id": 45,
         "name": "Fabric API",
-        "img": "https://storage.eightyseven.ru/mods/images/FabricAPI.png",
+        "img": "https://storage.eightyseven.ru/mods/images/FabricAPI1.png",
         "description_ru": "Базовая библиотека предоставляющая авторским модификациям набор инструментов для совместимости с Fabric Loader",
         "description_en": "Basic library providing copyright modifications to a set of tools for compatibility with Fabric Loader",
         "category": "Important",
