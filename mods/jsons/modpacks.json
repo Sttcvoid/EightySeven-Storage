@@ -20,7 +20,7 @@
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json",
             "gameInFolder": true,
             "gameFolderName": "Song of The East",
-            "downloadURL": "https://www.justcraftme.ru/modpacks/Song%20of%20The%20East.zip"
+            "downloadURL": "https://mods.eightyseven.ru/modpacks/SongOfTheEast.zip"
         },
         {
             "id": 1,
@@ -42,7 +42,7 @@
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/1.16.5-forge-36.2.35/1.16.5-forge-36.2.35.json",
             "gameInFolder": true,
             "gameFolderName": "Adventurer's Path",
-            "downloadURL": "https://www.justcraftme.ru/modpacks/Adventurer%27s%20Path.zip"
+            "downloadURL": "https://mods.eightyseven.ru/modpacks/AdventurerPath.zip"
         },
         {
             "id": 2,
@@ -64,7 +64,7 @@
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json",
             "gameInFolder": false,
             "gameFolderName": null,
-            "downloadURL": "https://www.justcraftme.ru/modpacks/Daily%20Hard%20Reboot.zip"
+            "downloadURL": "https://mods.eightyseven.ru/modpacks/DailyHardReboot.zip"
         },
         {
             "id": 3,
@@ -86,7 +86,7 @@
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json",
             "gameInFolder": false,
             "gameFolderName": null,
-            "downloadURL": "https://www.justcraftme.ru/modpacks/MagicRocketry.zip"
+            "downloadURL": "https://mods.eightyseven.ru/modpacks/MagicRocketry.zip"
         },
         {
             "id": 4,
@@ -108,7 +108,7 @@
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/1.16.5-forge-36.2.35/1.16.5-forge-36.2.35.json",
             "gameInFolder": false,
             "gameFolderName": null,
-            "downloadURL": "https://www.justcraftme.ru/modpacks/MedievalAdventure.rar"
+            "downloadURL": "https://mods.eightyseven.ru/modpacks/MedievalAdventure.rar"
         },
         {
             "id": 5,
@@ -130,7 +130,7 @@
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json",
             "gameInFolder": true,
             "gameFolderName": "MoonLight",
-            "downloadURL": "https://www.justcraftme.ru/modpacks/MoonLight.zip"
+            "downloadURL": "https://mods.eightyseven.ru/modpacks/MoonLight.zip"
         },
         {
             "id": 6,
@@ -152,7 +152,7 @@
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.1.0/1.16.5-forge-36.1.0/1.16.5-forge-36.1.0.json",
             "gameInFolder": true,
             "gameFolderName": "Rise of Engineering",
-            "downloadURL": "https://www.justcraftme.ru/modpacks/Rise%20of%20Engineering.zip"
+            "downloadURL": "https://mods.eightyseven.ru/modpacks/RiseOfEngineering.zip"
         },
         {
             "id": 7,
@@ -174,7 +174,7 @@
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/1.16.5-forge-36.2.35/1.16.5-forge-36.2.35.json",
             "gameInFolder": false,
             "gameFolderName": null,
-            "downloadURL": "https://www.justcraftme.ru/modpacks/drive-download-20221228T190936Z-001.zip"
+            "downloadURL": "https://mods.eightyseven.ru/modpacks/Purga.zip"
         },
         {
             "id": 8,
@@ -196,7 +196,7 @@
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json",
             "gameInFolder": true,
             "gameFolderName": "After the Death Alternative Final",
-            "downloadURL": "https://www.justcraftme.ru/modpacks/AtDAF%20(R2).rar"
+            "downloadURL": "https://mods.eightyseven.ru/modpacks/AtDAF.rar"
         },
         {
             "id": 9,
@@ -218,7 +218,7 @@
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.20/1.16.5-forge-36.2.20/1.16.5-forge-36.2.20.json",
             "gameInFolder": false,
             "gameFolderName": null,
-            "downloadURL": "https://www.justcraftme.ru/modpacks/FactoryCraft%20by%20Allman.zip"
+            "downloadURL": "https://mods.eightyseven.ru/modpacks/FactoryCraft.zip"
         }
     ]
 }
