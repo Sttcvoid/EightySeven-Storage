@@ -172,7 +172,14 @@
             "img": "https://storage.eightyseven.ru/mods/images/modpacks/Medieval-Adventure.png",
             "img_low_bn": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/Medieval-Adventure.png",
             "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/MA.jpg",
-            "screenshots": [],
+            "screenshots": [
+                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ma/1.png",
+                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ma/2.png",
+                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ma/3.png",
+                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ma/4.png",
+                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ma/5.png",
+                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ma/6.png"
+            ],
             "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/Medieval-Adventure.png",
             "trailer": null,
             "trailer_embed": null,
