@@ -30,6 +30,24 @@
             },
             "modlist": "Actually Additions - Небольшие механизмы, Ambience - Настройка пользовательской музыки, AppleSkin - Отображение уровня насыщения, Astral Sorcery - Звёздная магия, Baubles - Слоты под кольца и амулеты, BetterFps - Увеличение количества FPS в игре, Better Questing - Квесты, Botania - Мистические знания о цветах, Charm - Различные обновления мира, Chunk Animator - Анимированное прогружение чанков, Coloured Tooltips - Настройка подсказок, CraftTweaker - Настройка крафтов, Custom Main Menu - Кастомное меню, Dawn Of Time - Восточный декор, Death Counter - Счётчик смертей, Extra Utilities - Вспомогательные механизмы, Familiar Fauna - Новые мобы, Hopper Ducts - Транспортировка через воронки, Inventory Tweaks - Сортировка инвентаря, JEI - Просмотр предметов и рецептов, JourneyMap - Мини-карта, Just a Few Fish - Профессиональная рыбалка , MultiStorage - Хранилища, Nature's Compass - Компас биомов, Nethercraft - Улучшенный Ад, NoMoreRecipeConflict - Переключение между рецептами, Phosphor - Оптимизация освещения, Project: Vibrant Journeys - Новые биомы и мобы, Quest Book - Книга квестов, RealBench - Предметы не выпадают с верстака, Roguelike Dungeons - Подземные данжи, Rustic - Новые культуры, система алхимии и производства, SlashBlade - Катаны, Special Mobs - Опасные мобы, Tea the Story - Мод о чайной культуре, TexFix - Экономия памяти компьютера, Thaumcraft - Сложный магический мод, The One Probe - Отображение блоков и здоровья, TombManyGraves - Могилки, Totemic - Магия тотемов, Treasure2 - Сундуки с сокровищами, VanillaFix - Улучшение производительности",
             "genres": ["Magic", "Adventures"],
+            "peculiarities": {
+                "ru": [
+                    "Кастомная музыка & меню",
+                    "Собственные квесты",
+                    "Мод на приветственное сообщение (нами разработанный)",
+                    "Настроенные лутбоксы (bq мод)",
+                    "Кастомная музыка & меню",
+                    "Крафты, связывающие моды"
+                ],
+                "en": [
+                    "Custom music & menu",
+                    "Own quests",
+                    "Mod for a welcome message (developed by us)",
+                    "Customized lootboxes (bq mod)",
+                    "Custom music & menu",
+                    "Craft linking mods"
+                ]
+            },
             "size": "309",
             "version": "1.12.2",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/libraries.zip"],
@@ -71,6 +89,26 @@
             },
             "modlist": "Abnormals Core, Angry Mobs, Antique Atlas, Antique Waystones, AppleSkin, Aquamirae, Architectury, Artifacts, Atmospheric, Attribute Fix, Backpacked, Better Biome Blend, Better Third Person, BlockCarpentry, Burlap Sack, Campfire Spawn and Tweaks, Catalogue, CaveBiomeAPI, Cloth Config, Clumps, Collective, Comforts, Configured, Corail Tombstone, Creeper AI Updated, Crock Pot, Curio of Undying, Curios API, Curious Armor Stands, Darker Depths, Default Options, Dungeon Crawl, Dungeons Enhanced, Dynamic Lights Reforged, Enchant with Mob, End Remastered, Enhanced Celestials, Entity Collision FPS Fix, Environmental, ExpandAbility, ExpandAbility, FTB Backups, FTB Library, FTB Quests, FTB Teams, FallingTree, FastLeafDecay, FastSuite, Ferrite Core, Forge 36.2.35, Gadgets, GeckoLib, Global GameRules, Goblins & Dungeons, Goki Stats, HLSpells, Harder Branch Mining, Healing Campfire, Health Overlay, Herobrin’s Revenge, Iceberg, Inventory Essentials, Inventory Tweaks Renewed, Iron Chests, Item Filters, JEI Enchantment Info, Just Enough Effect Descriptions, JEI, KubeJS, Legendary Tooltips, Limited Lives, Living Chest, Magnesium Extras, Majrusz Library, Majrusz’s Progressive Difficulty, MmmMmmMmmMmm, Mob Aspects, Modern Loading Screen, Modular Enchantments, Morpheus, Mowzie’s Mobs, Multi Mine, Neat, Nether Portal Spread, NetherPortalFix, Nimble, Not Enough Crashes, Nyf’s Quiver, Obscuria’s Essentials, Obscuria’s Tooltips, Oculus, Oreganized, Overloaded Armor Bar, PackMenu, Pandoras Creatures, Patchouli, Placebo, Presence Footsteps, Puzzles Lib, Queen Bee, Radon, Repair Chests, Rhino, Rough Tweaks, Rubidium, Savage & Ravage, Second Chance, Sewing Kit, Shret Nether, Shutup Experimental Settings, Spiders 2.0, Stalwart Dungeons, StepUp, Structure Gel API, Structures Compass, Stylish Effects, TeamDeusVult Tweaks, The Conjurer, The Endergetic Expansion, The Idle, The Twilight Forest, The Weirding Gadget, Tiny Inv, Toad Terror, Toast Control, Tool Belt, Traveler’s Titles, Traverse Reforged, Twilight Tweaks, Water Source, Waystones, XP Tome, YUNG’s API, YUNG’s Better Dungeons, YUNG’s Bridges, Anti Creeper Block, Dragon Fight, Healing Bed, MAtmos",
             "genres": ["RPG", "Adventures"],
+            "peculiarities": {
+                "ru": [
+                    "Приумноженная сложность мобов",
+                    "Ограниченное количество жизней и особая система восстановления HP",
+                    "Квесты и построенная линия прогрессии",
+                    "Система прокачки",
+                    "Ограниченный инвентарь",
+                    "Шкала жажды",
+                    "Настроенные конфиги"
+                ],
+                "en": [
+                    "Increased mob difficulty",
+                    "Limited number of lives and a special HP recovery system",
+                    "Quests and built progression line",
+                    "Pumping system",
+                    "Limited inventory",
+                    "Thirst scale",
+                    "Customized configs"
+                ]
+            },
             "size": "225",
             "version": "1.16.5",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/libraries.zip"],
@@ -112,6 +150,22 @@
             },
             "modlist": "Galacticraft, Tinkers Construct, Blood Magic, Evil craft, Immersive Engineering, Grimoire Of Gaia, Applied Energistics 2, Mekanism, А так же множество маленьких модов, ядер и библиотек. Всего в сборке 96 модов!",
             "genres": ["Realism", "Adventures"],
+            "peculiarities": {
+                "ru": [
+                    "Усложнённая система выживания",
+                    "Кастомное меню",
+                    "Множество интересных квестов",
+                    "Сотни изменённых рецептов, связывающих моды в единое целое",
+                    "Настроенные конфиги и многое другое!"
+                ],
+                "en": [
+                    "Complicated survival system",
+                    "Custom menu",
+                    "A lot of interesting quests",
+                    "Hundreds of modified recipes linking mods together",
+                    "Customized configs and more!"
+                ]
+            },
             "size": "92",
             "version": "1.12.2",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/libraries.zip"],
@@ -153,6 +207,20 @@
             },
             "modlist": "Galacticraft, Tinkers Construct, Blood Magic, Evil craft, Immersive Engineering, Grimoire Of Gaia, Applied Energistics 2, Mekanism, А так же множество маленьких модов, ядер и библиотек. Всего в сборке 96 модов!",
             "genres": ["Magic", "Space"],
+            "peculiarities": {
+                "ru": [
+                    "Кастомное меню",
+                    "Множество квестов",
+                    "Изменённые и усложнённые крафты",
+                    "Настроенные конфиги"
+                ],
+                "en": [
+                    "Custom menu",
+                    "Many quests",
+                    "Changed and complicated craft",
+                    "Customized configs"
+                ]
+            },
             "size": "129",
             "version": "1.12.2",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/libraries.zip"],
@@ -191,6 +259,24 @@
             },
             "modlist": "Shoulder Surfing - новый вид от 3 лица, Epic Knight Armors and Weapons - доспехи и оружия рыцарей, ApexCore - нужен для работы других модов, AdChimneys - дополнение к моды на печки, добавляет дымоходы, Advancement Plaques - изменит отображение получения достижения, AlexsMobs - добавит множество новых животных, AmbientSounds - добавит звуки окружения, Aquaculture - более 30 новых рыб, ArmorPoser - новые позы стойки для брони, AstikorCarts - добавит повозку, BetterFps - один из из модов для улучшения оптимизации и поднятия уровня fps, Blur - добавит блюр, когда вы открываете инвентарь/чат/меню, Oh The Biomes You'll Go (byg) - новые биомы (дополнение к OTG), CameraOverhaul - реалистичное движение камеры, CarryOn - теперь вы сможете переносить сундуки/печки/животных, Castle in the Sky - новый данж: небесный замок, MrCrayfish’s Furniture (cfm) - мод на мебель, Chimes - добавит два варианта музыкальных подвесок, которые будут создавать уютный перезвон от ветра, Citadel - библиотека для работы некоторых других модов, Clumps - опыт будет собираться в большую каплю. Это может поспособствовать увеличению fps, Configured - позволит менять конфиг модов прямо в меню forge, Construction Wand - палочки для строительства, Create - довольно известный индустриальный мод на механизмы. Поможет в автоматизации и не будет сильно выделяться из тематики средневековья, CreativeCore - дополнение для работы некоторых модов, Croptopia - добавит большое количество еды, CTM - дополнение для работы других модов, CustomNPCs - добавит настраиваемых npc, Decorative Blocks - жаровня, деревянные опоры и сиденья, канделябр, каменный столб и блок цепи, DiagonalFences - теперь заборы можно ставить и диагонально, Double Slabs - теперь полу-блоки из разного материала можно ставить друг на друга, DrinkBeerMod - добавит пивоварение и не только, Dungeons Enhanced - генерация новых структур, DynamicSurroundings - улучшит звуки в игре, EatingAnimation - добавит анимацию когда вы едите, Entity Culling - еще один мод для улучшения оптимизации и повышения fps, EpicFightMod - добавит новые анимации и механики боя. А также немного брони и оружия, FallingTree - так сказать \"трикапитатор\". Упростит добычу дерева, FantasyFurniture - еще больше мебели, но в другом стиле, FarFromHome - аддон для OTG, Faz_Armor - средневековое оружия и броня, FerriteCore - очередной мод на оптимизацию, в этот раз ОЗУ, FishingReal - новая механика рыбалки, FlyWheel - нужен для работы других модов, ForgeEndertech - библиотека необходимая для работы всех модов от автора EnderLanky, GreekFantasy - мобы из греческой мифологии, HYWLA - всем известный мод на \"подсказки\", IceAndFire - чудесный мод на драконов. Также добавляет новые печи/броню/оружие, iceberg - библиотека необходимая для работы других модов, ImmersiveEngineering - еще один индустриальный мод, который также не будет сильно выходить за рамки тематики, InventorySpam - добавит в правый нижний угол оповещения о получении/потере предметов, InvTweaks - фильтры для инвентаря/сундуков, которые помогут быстро отсортировать ресурсы, IroneChest- новые сундуки, IroneFurnaces - новые печи, ItemPhysic - физика предметов, ItemsDontBreak - теперь после поломки предметы не пропадают из инвентаря, а ждут, пока их починят, Jei - всем известный мод, для просмотра новых крафтов, JourneyMap - мини-карта, Lazydfu - и ещё один мод на оптимизацию, LegendaryTooltips - новое оформление рамки предметов разной редкости, Macaw's Windows - новые окна, Medieval Craft - генерация замков с лутом, MoreShips - добавит новые корабли, Nutritionalbalance - заставит игрока следит за тем, что и в каком количестве он ест, OpenTerrainGenerator(OTG) - новая генерация мира, OptiFune - всем известный мод, помогает с оптимизацией, PassableFoliage - теперь вы можете проходить сквозь листву, performant - улучшает производительность игры, помогает увеличить количество fps, PlayerЕx - прокачка в RPG стиле, PuzzlesLib - библиотека для работы других модов, QuickHarvest - упрощает сбор и посадку урожая, Registrator - нужен для работы других модов, Repurposed Structures - генерация переработанных, в разы улучшенных данжей, Restored Earth - Цель данного мода вернуть в майнкрафт эксклюзивный контент Minecraft: Earth, который был утрачен после того, как mojang заявили о закрытии игры, SmallShips - больше кораблей, SophisticatedBackpacks - рюкзаки, soundfilters - улучшит звуки, SpartanWeaponry - добавит большое количество оружия, Stalwart Dungeons - добавит 3 подземелья в нижнем мире, Structure Gel API - нужен для работы других модов, sulfuric - оптимизация работы движка, TheForbidden - новые монстры, боссы, оружие, TRansliterationLib - нужен для работы других модов, ValhelsiaCore - нужен для работы ValhelsiaStructures, ValhelsiaStructures - генерация новых структур, WallJump - добавит возможность прыгать от стены к стене, XPFromHarvset - получайте опыт от ведения сельского хозяйства",
             "genres": ["RPG", "Adventures"],
+            "peculiarities": {
+                "ru": [
+                    "Проработанная детализация",
+                    "Атмосферное \"живое\" окружение",
+                    "Новые механики",
+                    "Оптимизированный модлист",
+                    "Широкий выбор оружия и брони",
+                    "Уникальная система прокачки персонажа"
+                ],
+                "en": [
+                    "Refined detail",
+                    "Atmospheric \"living\" environment",
+                    "New mechanics",
+                    "Optimized modlist",
+                    "A wide selection of weapons and armor",
+                    "Unique character leveling system"
+                ]
+            },
             "size": "224",
             "version": "1.16.5",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/libraries.zip"],
@@ -235,6 +321,24 @@
             },
             "modlist": "Ambience - Настройка пользовательской музыки, AppleSkin - Отображение уровня насыщения, Baubles - Слоты под кольца и амулеты, BetterFps - Увеличение количества FPS в игре, Bewitchment - Ведьмино колдовство, Biomes O' Plenty - Новые биомы, Blood Magic - Магия, ритуалы и новые механики, Bloodmoon - Багровая луна, Chunk Animator - Анимированное прогружение чанков, Comforts - Спальные мешки и гамаки, Cosmetic Armor Reworked - Броня для демонстрации и защиты, CraftTweaker - Настройка крафтов, Cuisine - Разнообразная кухня, Custom Main Menu - Кастомное меню, Death Counter - Счётчик смертей, EvilCraft - Тёмная магия, Extra Alchemy - Улучшенная алхимия, Extra Utilities - Вспомогательные механизмы, Fish's Undead Rising - Новые монстры, FoamFix - Уменьшение потребляемой памяти , Forbidden and Arcanus - Магические предметы и блоки, FTB Library - Ядро FTB-модов, FTB Quests - Создание своих квестов, Furnus - Продвинутые печь и дробитель, GraveStone - Могилки, HammerX - Молоты, копающие 3х3, Inventory Tweaks - Сортировка инвентаря, Iron Chests - Сундуки нового поколения, JEI - Просмотр предметов и рецептов, JourneyMap - Мини-карта, More Overlays - Уровень света и отображение чанков, Mystical World - Милые существа, NoMoreRecipeConflict - Рецепты больше не конфликтуют, Phosphor - Оптимизация освещения, Rats - Невероятный мод, посвящённый крысам, RealBench - Вещи не дропаются с верстака, Resource Loader - Ядро для CMM , Roguelike Dungeons - Подземные данжи, Roots - Магия друидов, Simple Storage Network - Автоматизация хранения, Smooth Font - Улучшенный шрифт, Soul Shards Respawn - Создание спавнера, The One Probe - Отображение блоков и здоровья, Unique Enchantments - Новые чары, Vampires Need Umbrellas - Зонтики для вампиров, Vampirism - Наука о вампирах и охотниках, Vampirism Integrations - Совмещение с другими модами, VanillaFix - Улучшение производительности",
             "genres": ["Magic", "Adventures"],
+            "peculiarities": {
+                "ru": [
+                    "Музыка, погружающая Вас в атмосферу ужаса",
+                    "Экспериментальное меню, где нет привычных Вам кнопок",
+                    "Более 300 квестов!",
+                    "Крафты, связывающие моды",
+                    "Собственные текстуры для модов Iron Chests и Simple Storage Network",
+                    "Множество настроенных конфигов, лезть в которые мы не советуем"
+                ],
+                "en": [
+                    "Music that plunges you into an atmosphere of horror",
+                    "Experimental menu, where there are no buttons familiar to you",
+                    "More than 300 quests!",
+                    "Crafts linking mods",
+                    "Own textures for Iron Chests and Simple Storage Network mods",
+                    "A lot of configured configs, which we do not recommend climbing into"
+                ]
+            },
             "size": "209",
             "version": "1.12.2",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/libraries.zip"],
@@ -276,6 +380,22 @@
             },
             "modlist": "Create - Уникальные технологии, позволяющие развить автоматизацию в мире Майнкрафт. На Create строится изучение всей сборки, не тронув его, игрок не сможет продвинуться дальше, Integrated Dynamics - Мод, который позволит Вам создать обширную систему из механизмов на своей базе, Powah - Новые способы генерации энергии и переработки предметов, Refined Storage - Совершенная система хранения, Resourceful Bees - Модификация добавит пчёл, из продукции которых Вы сможете добывать ресурсы, Silents Mechanisms - Продвинутые механизмы переработки, позволяющие удваивать ресурсы или преобразовывать нефть в пластик, Autumnity - Добавляет осенний контент: биомы, мобы, еда и строительные блоки, Better Mineshafts - Обновление ванильных заброшенных шахт, Better Storage Too - Новые виды хранилищ, Builders Crafts & Additions - Предметы и блоки для украшения Вашего жилища, Buzzier Bees - Больше контента пчеловодам, Charm Reforged - Мод, который внесёт множество интересных нововведений. Советую изучить его самостоятельно!, Chunk Loaders - Прогрузчики чанков, Crafting Station - Верстак, из которого больше не будут выпадать предметы, Create : Stuff Additions - Дополнение к моду Create. Теперь в Вашем арсенале появятся: экзоскелетные нагрудники, реактивные ранцы и дрель, Curios - Отдельный слот для рюкзаков, The Endergetic Expansion - Мод, добавляющий новые биомы в Энде, EnderTanks - Эндер-хранилища, Farmers Delight - Разнообразие Вашей кухне никогда не повредит, верно? Вот и я так подумал! Модификация добавляет новые культуры, способы готовки и сытную еду, Geode - Новый моб, которого можно встретить в шахте, Global XP - Хранение опыта в одном блоке, Integrated Crafting - Создание вещей в системе, Integrated Tunnels - Передача предметов, жидкости и энергии по той самой системе, Iron Chests - Новые сундуки, отличающиеся по своей вместимости, Refined Pipes - Независимые трубы для передачи предметов, жидкости и энергии, Gauges and Switches - Красивые рычажки и предметы управления, Savage & Ravage - Новые виды разбойников и их мест обитания, Simple Drills - Дрели, копающие 3x3, Simple Planes - Мод позволит Вам создать воздушный транспорт, Sophisticated Backpacks - Рюкзаки для хранения предметов, Storage Drawers - Ящики, чтобы держать свои вещи в безопасности, Supplementaries - Море нового игрового контента, Wonderful Enchantments - Полезные чарыквестов, AppleSkin - Модификация, показывающая уровень насыщения от той или иной еды, Chunk-Pregenerator - Оптимизированное создание мира, Clumps - Объединение маленьких сфер опыта в одну, Coloured Tooltips - Модификация, позволяющая настроить цвет всплывающих подсказок в игре, Corpse - Могилы с вещами, которые остаются после смерти игрока, CraftTweaker - Мод, с которым Вы сможете изменять или даже добавлять крафты, Fast Leaf Decay - Листва опадёт после того, как игрок срубит всё дерево, FastSuite - Улучшение производительности рецептов, FTB Backups - Периодические сохранения Вашего мира, FTB Chunks - Удобная мини-карта с возможностью выделения чанков для прогрузки, FTB Quests - Создание и настройка своих собственных квестов, Just Enough Items (JEI) - Просмотр всех предметов и их рецептов, Just Enough Resources (JER) - Аддон, показывающий полезную информацию о дропе с мобов и растений, о генерации руд и о возможном луте в данжах, More Overlays Updated - Просмотр уровня освещённости территории, а также границ чанков, Notes - Внутриигровые заметки, Out Of Sight - Корректировка частоты кадров, PackMenu - Создание своего уникального меню, Polymorph - Мод, избавляющий Вас от проблем при совпадении рецептов из установленных модов, Smooth Boot - Плавная загрузка игры, Starter Kit - Настройка стартового набора предметов, StepUp - Улучшенный автопрыжок, The One Probe - Всплывающие на экране подсказки с информацией о блоке или мобе, TrashSlot - Корзинка для удаления предметов прямо в инвентаре",
             "genres": ["Industrial", "Adventures"],
+            "peculiarities": {
+                "ru": [
+                    "Тематическое меню",
+                    "Несколько сотен интереснейших квестов",
+                    "Изменённые рецепты предметов",
+                    "Настроенные конфигурации модов",
+                    "Внутриигровые заметки [Клавиша N]"
+                ],
+                "en": [
+                    "Themed menu",
+                    "Several hundred interesting quests",
+                    "Changed item recipes",
+                    "Custom mod configurations",
+                    "In-Game notes [N Key]"
+                ]
+            },
             "size": "76",
             "version": "1.16.5",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.1.0/libraries.zip"],
@@ -317,6 +437,24 @@
             },
             "modlist": "PRIMAL WINTER, TOUGH AS NAILS, SURVIVAL OVERHAUL, DOPMODGFPLOT, DOPMODGFPERGA, DYNAMIC TREES, TOTAL DARKNESS, SIMPLE FLASHLIGHT PORT, DALEENY'S MOREFOODS, FARMER'S DELIGHT, DUNGEONS ENHANCED, BETTER DUNGEONS, WANDERING TRAPPER, EATING ANIMATION, NOT ENOUGH ANIMATIONS, FURNISH, DAY COUNTER, ANTIQUE ATLAS, BREAD AND ROOLS, CUMBERSOME, CAMERAOVERHAUL, TABLE TOP CRAFT, CARRY ON, ENHANCED CELESTIALS, CONNECTIBLE CHAINS, DARK PAINTINGS, FARMER'S RESPITE, VISUAL WORKBENCH, SCREENSCALE, CAMPFIRE OVERHAUL, NUTRITIONAL BALANCE, SАNITY AND INSАNITY, NATURAL PROGRESSION, REALISTIC TORCHES, STRUCTURES' COMPASS, IMPROVED MOBS, BURDEN OF TIME, FIRST-PERSON MODEL, BETTER BURNING, YDM'S WEAPON MASTER, NEKO'S ENCHANTED BOOKS, FANCYMENU, LOADMYRESOURCES",
             "genres": ["Hardcore", "Adventures"],
+            "peculiarities": {
+                "ru": [
+                    "Анимированное меню",
+                    "Новые структуры",
+                    "Хардкорные окружающие условия",
+                    "Улучшенный ИИ мобов",
+                    "Показатели жизни персонажа",
+                    "Новые еда и механики в готовке и фермерстве"
+                ],
+                "en": [
+                    "Animated menu",
+                    "New structures",
+                    "Hardcore environments",
+                    "Improved mob AI",
+                    "Character life indicators",
+                    "New food and mechanics in cooking and farming"
+                ]
+            },
             "size": "444",
             "version": "1.16.5",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/libraries.zip"],
@@ -365,6 +503,26 @@
             },
             "modlist": "OPTIFINE, PHOSPHOR, BETTERFPS, VANILLAFIX, JEI, JOURNEY MAP, IRON CHESTS, TRAVELER'S BACKPACK, FALLING TREE, NEAT, MEKANISM, ENCHANTING PLUS, SCAPE AND RUN PARASITES, ZOMBIE AWARENESS, LYCANITES MOBS, THE LOST CITIES, BIBLIOCRAFT, BLOODMOON, CRAFTTWEAKER, ATOMICSTRYKER'S INFERNAL MOBS, LEVEL UP HP, CRIOGONAL'S ZOMBIES MOD, HUNTER ZOMBIE, TECHGUNS, MUTANT BEASTS, ROUGH MOBS 2, HARDCORE DARKNESS, DYNAMIC LIGHTS, ANIMALIUM, FTB QUESTS, THE EREBUS, THE AURORIAN, GLACIDUS, BETTER HUD, CUSTOM STARTER GEAR, NETHER ORES PLUS+, GALACTICRAFT, EXTRA PLANETS, MORE PLANETS, INVENTORY TWEAKS, PATCHOULI, SRP VACCINE, BUILDING GADGETS, AFTER THE DEATH: SUNSET",
             "genres": ["Hardcore", "Adventures"],
+            "peculiarities": {
+                "ru": [
+                    "Бросающий вызов геймплей",
+                    "Расширенная система крафтов",
+                    "Сотни уникальных квестов",
+                    "Сложные противники",
+                    "Уникальная модификация",
+                    "Огромное количество новых миров",
+                    "Атмосфера подлинного апокалипсиса, переплетённая с комедией абсурда"
+                ],
+                "en": [
+                    "Challenging gameplay",
+                    "Advanced crafting system",
+                    "Hundreds of unique quests",
+                    "Difficult enemies",
+                    "Unique modification",
+                    "A huge number of new worlds",
+                    "The atmosphere of a genuine apocalypse, intertwined with the comedy of the absurd"
+                ]
+            },
             "size": "733",
             "version": "1.12.2",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/libraries.zip"],
@@ -410,6 +568,26 @@
             },
             "modlist": null,
             "genres": ["Industrial", "Realism"],
+            "peculiarities": {
+                "ru": [
+                    "Кастомное меню",
+                    "Продуманные сюжетные квесты",
+                    "Множество переработанных рецептов",
+                    "Пользовательские блоки, предметы, механизмы",
+                    "Изменённый спавн мобов",
+                    "Настроенные конфигурации",
+                    "Редактированные таблицы лута"
+                ],
+                "en": [
+                    "Custom menu",
+                    "Thoughtful plot quests",
+                    "Many revised recipes",
+                    "Custom blocks, objects, mechanisms",
+                    "Changed mob spawn",
+                    "Customized configurations",
+                    "Edited loot tables"
+                ]
+            },
             "size": "211",
             "version": "1.16.5",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.20/libraries.zip"],
