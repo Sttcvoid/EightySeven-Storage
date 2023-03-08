@@ -24,10 +24,10 @@
             "trailer_embed": "Ej_r_AhWr0Q",
             "description_ru": "Это магическая сборка с уклоном на восточную тематику. Играя в данный модпак, Вы погрузитесь в новый, волшебный мир, сможете изучить созвездия и магию мелодии. Путешествуйте, собирайте цветы и исследуйте ещё неизведанные земли!",
             "description_en": "This is a magical assembly with an oriental focus. Playing this modpack, you will immerse yourself in a new, magical world, you can explore the constellations and the magic of the melody. Travel, pick flowers and explore unexplored lands!",
-            "description_full": [{
+            "description_full": {
                 "ru": null,
                 "en": null
-            }],
+            },
             "genres": ["Magic", "Adventures"],
             "size": "309",
             "version": "1.12.2",
@@ -54,10 +54,10 @@
             "trailer_embed": null,
             "description_ru": "Похождения на сборке погрузят вас в мир изысканий, путешествий и битв! Путь авантюриста представляет собой прогрессию от низов до Дракона, а затем в Сумеречный лес и до сражения с Херобрином в качестве финального босса",
             "description_en": "Assembly adventures will immerse you in the world of exploration, travel and battles! The path of the adventurer is a progression from the bottom to the Dragon, and then to the Duskwood and to the battle with Herobrine as the final boss",
-            "description_full": [{
+            "description_full": {
                 "ru": "Похождения на сборке погрузят вас в мир изысканий, путешествий и битв! Путь авантюриста представляет собой прогрессию от низов до Дракона, а затем в Сумеречный лес и до сражения с Херобрином в качестве финального босса. Модпак включает в себя: новые механики, усиленных мобов и боссов, опасные данжи. Сориентироваться же в новом мире вам помогут квесты!",
                 "en": "Assembly adventures will immerse you in the world of exploration, travel and battles! The path of the adventurer is a progression from the bottom to the Dragon, and then to the Duskwood and to the battle with Herobrine as the final boss. Modpack includes: new mechanics, enhanced mobs and bosses, dangerous dungeons. Quests will help you navigate in the new world!"
-            }],
+            },
             "genres": ["RPG", "Adventures"],
             "size": "225",
             "version": "1.16.5",
@@ -94,10 +94,10 @@
             "trailer_embed": null,
             "description_ru": "В Daily Hard Reboot, в отличие от прошлой версии, акцент делается на усложнении аспекта выживания. Теперь этот процесс будет, действительно, непростым: например, для создания обычной печки, вам придется посетить Незер, до которого, в свою очередь, нужно тоже будет вкалывать и вкалывать…",
             "description_en": "In Daily Hard Reboot, unlike the previous version, the emphasis is on complicating the aspect of survival. Now this process will be really difficult: for example, to create an ordinary stove, you will have to visit Nether, to which, in turn, you will also need to work hard and work hard...",
-            "description_full": [{
+            "description_full": {
                 "ru": "В Daily Hard Reboot, в отличие от прошлой версии, акцент делается на усложнении аспекта выживания. Теперь этот процесс будет, действительно, непростым: например, для создания обычной печки, вам придется посетить Незер, до которого, в свою очередь, нужно тоже будет вкалывать и вкалывать… Но, помимо выживания, на этой сборке вы также сможете открыть для себя новые увлекательные миры и сразиться с интересными боссами!",
                 "en": "In Daily Hard Reboot, unlike the previous version, the emphasis is on complicating the aspect of survival. Now this process will be really difficult: for example, to create an ordinary stove, you will have to visit the Nether, to which, in turn, you will also need to work hard and work hard... But, in addition to surviving, on this assembly you will also be able to discover new exciting worlds and fight interesting bosses!"
-            }],
+            },
             "genres": ["Realism", "Adventures"],
             "size": "92",
             "version": "1.12.2",
@@ -134,10 +134,10 @@
             "trailer_embed": null,
             "description_ru": "В данном модпаке Вам предстоит поэтапно изучить множество модов с сильно усложнёнными крафтами, ради того, чтобы долететь аж до Венеры! Выполняйте квесты, занимайтесь магией, развивайте технологии, сражайтесь с толпами монстров и побеждайте боссов!",
             "description_en": "In this modpack, you have to gradually learn a lot of mods with highly complicated crafts in order to fly all the way to Venus! Complete quests, practice magic, develop technologies, fight hordes of monsters and defeat bosses!",
-            "description_full": [{
+            "description_full": {
                 "ru": null,
                 "en": null
-            }],
+            },
             "genres": ["Magic", "Space"],
             "size": "129",
             "version": "1.12.2",
@@ -164,10 +164,10 @@
             "trailer_embed": null,
             "description_ru": "Эта сборка погрузит вас в мир фэнтези и средневековья! Сразитесь с великанами и циклопами, бросьте вызов матери драконов и вырастите своего свирепого ящера! Путешествуйте, исследуйте данжи, найдите летающий город, любуйтесь великолепными видами!",
             "description_en": "This assembly will immerse you in the world of fantasy and the Middle Ages! Fight giants and cyclops, challenge the mother of dragons and raise your own ferocious lizard! Travel, explore dungeons, find a flying city, enjoy magnificent views!",
-            "description_full": [{
+            "description_full": {
                 "ru": "Эта сборка погрузит вас в мир фэнтези и средневековья! Сразитесь с великанами и циклопами, бросьте вызов матери драконов и вырастите своего свирепого ящера! Путешествуйте, исследуйте данжи, найдите летающий город, любуйтесь великолепными видами! Вас ждёт большое разнообразие мобов, красивая генерация мира, огромное количество оружия и брони, новые механики боя, улучшенная рыбалка и не только!",
                 "en": "This assembly will immerse you in the world of fantasy and the Middle Ages! Fight giants and cyclops, challenge the mother of dragons and raise your own ferocious lizard! Travel, explore dungeons, find a flying city, enjoy magnificent views! You will find a wide variety of mobs, beautiful world generation, a huge amount of weapons and armor, new combat mechanics, improved fishing and more!"
-            }],
+            },
             "genres": ["RPG", "Adventures"],
             "size": "224",
             "version": "1.16.5",
@@ -207,10 +207,10 @@
             "trailer_embed": null,
             "description_ru": "Ещё одна магическая сборка, для которой мы не пожалели своих мозгов. Это экспериментальный модпак, в котором Вам предстоит погрузиться в новый мир, полный волшебства. Создавайте свои заклинания, исследуйте знания о крови и уничтожайте полчища диких тварей!",
             "description_en": "Another magical build for which we did not spare our brains. This is an experimental modpack in which you have to immerse yourself in a new world full of magic. Create your spells, research the knowledge of blood and destroy hordes of wild creatures!",
-            "description_full": [{
+            "description_full": {
                 "ru": "Ещё одна магическая сборка, для которой мы не пожалели своих мозгов. Это экспериментальный модпак, в котором Вам предстоит погрузиться в новый мир, полный волшебства. Создавайте свои заклинания, исследуйте знания о крови и уничтожайте полчища диких тварей! Основная фишка данной сборки заключается в Вашем дальнейшем выборе: Вы можете стать Охотником и уничтожать злых существ или же Вампиром, чтобы предотвратить распространение добра",
                 "en": "Another magical build for which we did not spare our brains. This is an experimental modpack in which you have to immerse yourself in a new world full of magic. Create your spells, research the knowledge of blood and destroy hordes of wild creatures! The main feature of this assembly is your further choice: you can become a Hunter and destroy evil creatures or a Vampire to prevent the spread of good"
-            }],
+            },
             "genres": ["Magic", "Adventures"],
             "size": "209",
             "version": "1.12.2",
@@ -237,10 +237,10 @@
             "trailer_embed": null,
             "description_ru": "Сборка предлагает Вам опробовать новый игровой опыт изучения технологий в Майнкрафт. Развитие здесь строится на поэтапном освоении каждой из основных модификаций. Вы не сможете сразу же создать реактивный ранец или бур, для этого придётся проделать нелёгкий путь из цепочек крафтов",
             "description_en": "The assembly invites you to try out a new game experience of learning technologies in Minecraft. The development here is based on the phased development of each of the main modifications. You will not be able to immediately create a jetpack or a drill, for this you will have to go through a difficult path from crafting chains",
-            "description_full": [{
+            "description_full": {
                 "ru": "Сборка предлагает Вам опробовать новый игровой опыт изучения технологий в Майнкрафт. Развитие здесь строится на поэтапном освоении каждой из основных модификаций. Вы не сможете сразу же создать реактивный ранец или бур, для этого придётся проделать нелёгкий путь из цепочек крафтов. Прохождение сборки начнётся с Create, после изучения которого появится больше возможностей в других модах",
                 "en": "The assembly invites you to try out a new game experience of learning technologies in Minecraft. The development here is based on the phased development of each of the main modifications. You will not be able to immediately create a jetpack or a drill, for this you will have to go through a difficult path from crafting chains. The assembly walkthrough will start with Create, after studying which there will be more opportunities in other mods"
-            }],
+            },
             "genres": ["Industrial", "Adventures"],
             "size": "76",
             "version": "1.16.5",
@@ -267,10 +267,10 @@
             "trailer_embed": "ekqCz1dvZyc",
             "description_ru": "В этой сборке вам предстоит испытать себя и свои нервные клетки. Автору понадобилось 28 смертей (двадцать восемь обморожений персонажа, ты действовал наверняка, пытался разжечь костёр, но ничего не вышло?!), чтобы достигнуть стабильного положения в игре!",
             "description_en": "In this assembly, you have to test yourself and your nerve cells. It took the author 28 deaths (twenty-eight character frostbites, you acted for sure, tried to light a fire, but nothing happened?!) to reach a stable position in the game!",
-            "description_full": [{
+            "description_full": {
                 "ru": "В этой сборке вам предстоит испытать себя и свои нервные клетки. Автору понадобилось 28 смертей (двадцать восемь обморожений персонажа, ты действовал наверняка, пытался разжечь костёр, но ничего не вышло?!), чтобы достигнуть стабильного положения в игре! В самом начале игры придётся начинать с палок и камней. Здесь вам поможет только удача наткнуться на домик в бесконечной пурге",
                 "en": "In this assembly, you have to test yourself and your nerve cells. It took the author 28 deaths (twenty-eight character frostbites, you acted for sure, tried to light a fire, but nothing happened?!) to reach a stable position in the game! At the very beginning of the game, you will have to start with sticks and stones. Here only luck will help you to stumble upon a house in an endless snowstorm"
-            }],
+            },
             "genres": ["Hardcore", "Adventures"],
             "size": "444",
             "version": "1.16.5",
@@ -314,10 +314,10 @@
             "trailer_embed": null,
             "description_ru": "Это индустриальная сборка, погружающая игрока в апокалиптический мир. Вы будете вынуждены постоянно сражаться за свою жизнь, попутно открывая для себя новые горизонты. Создавайте продвинутые технологии, отбивайтесь от полчищ паразитов и ликанитов, путешествуйте по новым измерениям и просто веселитесь!",
             "description_en": "This is an industrial assembly that immerses the player in an apocalyptic world. You will be forced to constantly fight for your life, simultaneously opening up new horizons for yourself. Create advanced technologies, fight off hordes of parasites and lycanites, travel through new dimensions and just have fun!",
-            "description_full": [{
+            "description_full": {
                 "ru": null,
                 "en": null
-            }],
+            },
             "genres": ["Hardcore", "Adventures"],
             "size": "733",
             "version": "1.12.2",
@@ -358,10 +358,10 @@
             "trailer_embed": null,
             "description_ru": "Данная уникальная техническая сборка включает в себя более 100 модов, среди которых есть популярные Immersive Engineering, Industrial Foregoing, Space-Bosstools и др. В процессе игры Вы пройдёте по эпохам развития, сможете построить фабрики и заводы, а впоследствии - отправитесь покорять космос!",
             "description_en": "This unique technical assembly includes more than 100 mods, among which are the popular Immersive Engineering, Industrial Foregoing, Space-Bosstools, etc. During the game, you will go through the eras of development, you can build factories and plants, and then go to conquer space!",
-            "description_full": [{
+            "description_full": {
                 "ru": null,
                 "en": null
-            }],
+            },
             "genres": ["Industrial", "Realism"],
             "size": "211",
             "version": "1.16.5",
