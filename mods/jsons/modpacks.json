@@ -135,7 +135,10 @@
                     "Customized configs"
                 ]
             },
-            "size": 225,
+            "size": {
+                "value": 225,
+                "unit": "mb"
+            },
             "version": "1.16.5",
             "author": "Allman",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/libraries.zip"],
@@ -143,8 +146,10 @@
             "jarFile": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/1.16.5/1.16.5.jar",
             "mojangVer": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/1.16.5/1.16.5.json",
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/1.16.5-forge-36.2.35/1.16.5-forge-36.2.35.json",
-            "gameInFolder": true,
-            "gameFolderName": "Adventurer's Path",
+            "gameInFolder": {
+                "enabled": true,
+                "folderName": "Adventurer's Path"
+            },
             "downloadURL": "https://mods.eightyseven.ru/modpacks/AdventurerPath.zip"
         },
         {
@@ -206,7 +211,10 @@
                     "Customized configs and more!"
                 ]
             },
-            "size": 92,
+            "size": {
+                "value": 92,
+                "unit": "mb"
+            },
             "version": "1.12.2",
             "author": "Allman",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/libraries.zip"],
@@ -214,8 +222,10 @@
             "jarFile": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2/1.12.2.jar",
             "mojangVer": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2/1.12.2.json",
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json",
-            "gameInFolder": false,
-            "gameFolderName": null,
+            "gameInFolder": {
+                "enabled": false,
+                "folderName": null
+            },
             "downloadURL": "https://mods.eightyseven.ru/modpacks/DailyHardReboot.zip"
         },
         {
@@ -268,7 +278,10 @@
                     "Customized configs"
                 ]
             },
-            "size": 129,
+            "size": {
+                "value": 129,
+                "unit": "mb"
+            },
             "version": "1.12.2",
             "author": "creo37",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/libraries.zip"],
@@ -276,8 +289,10 @@
             "jarFile": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2/1.12.2.jar",
             "mojangVer": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2/1.12.2.json",
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json",
-            "gameInFolder": false,
-            "gameFolderName": null,
+            "gameInFolder": {
+                "enabled": false,
+                "folderName": null
+            },
             "downloadURL": "https://mods.eightyseven.ru/modpacks/MagicRocketry.zip"
         },
         {
@@ -339,7 +354,10 @@
                     "Unique character leveling system"
                 ]
             },
-            "size": 224,
+            "size": {
+                "value": 224,
+                "unit": "mb"
+            },
             "version": "1.16.5",
             "author": "JustRius",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/libraries.zip"],
@@ -347,8 +365,10 @@
             "jarFile": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/1.16.5/1.16.5.jar",
             "mojangVer": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/1.16.5/1.16.5.json",
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/1.16.5-forge-36.2.35/1.16.5-forge-36.2.35.json",
-            "gameInFolder": false,
-            "gameFolderName": null,
+            "gameInFolder": {
+                "enabled": false,
+                "folderName": null
+            },
             "downloadURL": "https://mods.eightyseven.ru/modpacks/MedievalAdventure.rar"
         },
         {
@@ -416,7 +436,10 @@
                     "A lot of configured configs, which we do not recommend climbing into"
                 ]
             },
-            "size": 209,
+            "size": {
+                "value": 209,
+                "unit": "mb"
+            },
             "version": "1.12.2",
             "author": "ySh",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/libraries.zip"],
@@ -424,8 +447,10 @@
             "jarFile": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2/1.12.2.jar",
             "mojangVer": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2/1.12.2.json",
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json",
-            "gameInFolder": true,
-            "gameFolderName": "MoonLight",
+            "gameInFolder": {
+                "enabled": true,
+                "folderName": "MoonLight"
+            },
             "downloadURL": "https://mods.eightyseven.ru/modpacks/MoonLight.zip"
         },
         {
@@ -483,7 +508,10 @@
                     "In-Game notes [N Key]"
                 ]
             },
-            "size": 76,
+            "size": {
+                "value": 76,
+                "unit": "mb"
+            },
             "version": "1.16.5",
             "author": "ySh",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.1.0/libraries.zip"],
@@ -491,8 +519,10 @@
             "jarFile": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.1.0/1.16.5/1.16.5.jar",
             "mojangVer": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.1.0/1.16.5/1.16.5.json",
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.1.0/1.16.5-forge-36.1.0/1.16.5-forge-36.1.0.json",
-            "gameInFolder": true,
-            "gameFolderName": "Rise of Engineering",
+            "gameInFolder": {
+                "enabled": true,
+                "folderName": "Rise of Engineering"
+            },
             "downloadURL": "https://mods.eightyseven.ru/modpacks/RiseOfEngineering.zip"
         },
         {
@@ -557,7 +587,10 @@
                     "New food and mechanics in cooking and farming"
                 ]
             },
-            "size": 444,
+            "size": {
+                "value": 444,
+                "unit": "mb"
+            },
             "version": "1.16.5",
             "author": "GemesFoxes",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/libraries.zip"],
@@ -565,8 +598,10 @@
             "jarFile": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/1.16.5/1.16.5.jar",
             "mojangVer": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/1.16.5/1.16.5.json",
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/1.16.5-forge-36.2.35/1.16.5-forge-36.2.35.json",
-            "gameInFolder": false,
-            "gameFolderName": null,
+            "gameInFolder": {
+                "enabled": false,
+                "folderName": null
+            },
             "downloadURL": "https://mods.eightyseven.ru/modpacks/Purga.zip"
         },
         {
@@ -637,7 +672,10 @@
                     "The atmosphere of a genuine apocalypse, intertwined with the comedy of the absurd"
                 ]
             },
-            "size": 733,
+            "size": {
+                "value": 733,
+                "unit": "mb"
+            },
             "version": "1.12.2",
             "author": "Last Librarian",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/libraries.zip"],
@@ -645,8 +683,10 @@
             "jarFile": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2/1.12.2.jar",
             "mojangVer": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2/1.12.2.json",
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json",
-            "gameInFolder": true,
-            "gameFolderName": "After the Death Alternative Final",
+            "gameInFolder": {
+                "enabled": true,
+                "folderName": "After the Death Alternative Final"
+            },
             "downloadURL": "https://mods.eightyseven.ru/modpacks/AtDAF.zip"
         },
         {
@@ -709,7 +749,10 @@
                     "Edited loot tables"
                 ]
             },
-            "size": 211,
+            "size": {
+                "value": 211,
+                "unit": "mb"
+            },
             "version": "1.16.5",
             "author": "Allman",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.20/libraries.zip"],
@@ -717,8 +760,10 @@
             "jarFile": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.20/1.16.5/1.16.5.jar",
             "mojangVer": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.20/1.16.5/1.16.5.json",
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.20/1.16.5-forge-36.2.20/1.16.5-forge-36.2.20.json",
-            "gameInFolder": false,
-            "gameFolderName": null,
+            "gameInFolder": {
+                "enabled": false,
+                "folderName": null
+            },
             "downloadURL": "https://mods.eightyseven.ru/modpacks/FactoryCraft.zip"
         }
     ]
