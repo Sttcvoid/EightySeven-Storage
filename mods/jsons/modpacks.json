@@ -74,7 +74,10 @@
                 "enabled": true,
                 "folderName": "Song of The East"
             },
-            "downloadURL": "https://mods.eightyseven.ru/modpacks/SongOfTheEast.zip"
+            "download": {
+                "inStorage": true,
+                "url": "https://mods.eightyseven.ru/modpacks/SongOfTheEast.zip"
+            }
         },
         {
             "id": {
@@ -150,7 +153,10 @@
                 "enabled": true,
                 "folderName": "Adventurer's Path"
             },
-            "downloadURL": "https://mods.eightyseven.ru/modpacks/AdventurerPath.zip"
+            "download": {
+                "inStorage": true,
+                "url": "https://mods.eightyseven.ru/modpacks/AdventurerPath.zip"
+            }
         },
         {
             "id": {
@@ -226,7 +232,10 @@
                 "enabled": false,
                 "folderName": null
             },
-            "downloadURL": "https://mods.eightyseven.ru/modpacks/DailyHardReboot.zip"
+            "download": {
+                "inStorage": true,
+                "url": "https://mods.eightyseven.ru/modpacks/DailyHardReboot.zip"
+            }
         },
         {
             "id": {
@@ -293,7 +302,10 @@
                 "enabled": false,
                 "folderName": null
             },
-            "downloadURL": "https://mods.eightyseven.ru/modpacks/MagicRocketry.zip"
+            "download": {
+                "inStorage": true,
+                "url": "https://mods.eightyseven.ru/modpacks/MagicRocketry.zip"
+            }
         },
         {
             "id": {
@@ -334,7 +346,7 @@
                     "embed": "b_omW-rN9d4"
                 }
             },
-            "modlist": "Shoulder Surfing - новый вид от 3 лица%nextMod%Epic Knight Armors and Weapons - доспехи и оружия рыцарей%nextMod%ApexCore - нужен для работы других модов%nextMod%AdChimneys - дополнение к моды на печки, добавляет дымоходы%nextMod%Advancement Plaques - изменит отображение получения достижения%nextMod%AlexsMobs - добавит множество новых животных%nextMod%AmbientSounds - добавит звуки окружения%nextMod%Aquaculture - более 30 новых рыб%nextMod%ArmorPoser - новые позы стойки для брони%nextMod%AstikorCarts - добавит повозку%nextMod%BetterFps - один из из модов для улучшения оптимизации и поднятия уровня fps%nextMod%Blur - добавит блюр, когда вы открываете инвентарь/чат/меню%nextMod%Oh The Biomes You'll Go (byg) - новые биомы (дополнение к OTG)%nextMod%CameraOverhaul - реалистичное движение камеры%nextMod%CarryOn - теперь вы сможете переносить сундуки/печки/животных%nextMod%Castle in the Sky - новый данж: небесный замок%nextMod%MrCrayfish’s Furniture (cfm) - мод на мебель%nextMod%Chimes - добавит два варианта музыкальных подвесок, которые будут создавать уютный перезвон от ветра%nextMod%Citadel - библиотека для работы некоторых других модов%nextMod%Clumps - опыт будет собираться в большую каплю. Это может поспособствовать увеличению fps%nextMod%Configured - позволит менять конфиг модов прямо в меню forge%nextMod%Construction Wand - палочки для строительства%nextMod%Create - довольно известный индустриальный мод на механизмы. Поможет в автоматизации и не будет сильно выделяться из тематики средневековья%nextMod%CreativeCore - дополнение для работы некоторых модов%nextMod%Croptopia - добавит большое количество еды%nextMod%CTM - дополнение для работы других модов%nextMod%CustomNPCs - добавит настраиваемых npc%nextMod%Decorative Blocks - жаровня, деревянные опоры и сиденья, канделябр, каменный столб и блок цепи%nextMod%DiagonalFences - теперь заборы можно ставить и диагонально%nextMod%Double Slabs - теперь полу-блоки из разного материала можно ставить друг на друга%nextMod%DrinkBeerMod - добавит пивоварение и не только%nextMod%Dungeons Enhanced - генерация новых структур%nextMod%DynamicSurroundings - улучшит звуки в игре%nextMod%EatingAnimation - добавит анимацию когда вы едите%nextMod%Entity Culling - еще один мод для улучшения оптимизации и повышения fps%nextMod%EpicFightMod - добавит новые анимации и механики боя. А также немного брони и оружия%nextMod%FallingTree - так сказать \"трикапитатор\". Упростит добычу дерева%nextMod%FantasyFurniture - еще больше мебели, но в другом стиле%nextMod%FarFromHome - аддон для OTG%nextMod%Faz_Armor - средневековое оружия и броня%nextMod%FerriteCore - очередной мод на оптимизацию, в этот раз ОЗУ%nextMod%FishingReal - новая механика рыбалки%nextMod%FlyWheel - нужен для работы других модов%nextMod%ForgeEndertech - библиотека необходимая для работы всех модов от автора EnderLanky%nextMod%GreekFantasy - мобы из греческой мифологии%nextMod%HYWLA - всем известный мод на \"подсказки\"%nextMod%IceAndFire - чудесный мод на драконов. Также добавляет новые печи/броню/оружие%nextMod%iceberg - библиотека необходимая для работы других модов%nextMod%ImmersiveEngineering - еще один индустриальный мод, который также не будет сильно выходить за рамки тематики%nextMod%InventorySpam - добавит в правый нижний угол оповещения о получении/потере предметов%nextMod%InvTweaks - фильтры для инвентаря/сундуков, которые помогут быстро отсортировать ресурсы%nextMod%IroneChest- новые сундуки%nextMod%IroneFurnaces - новые печи%nextMod%ItemPhysic - физика предметов%nextMod%ItemsDontBreak - теперь после поломки предметы не пропадают из инвентаря, а ждут, пока их починят%nextMod%Jei - всем известный мод, для просмотра новых крафтов%nextMod%JourneyMap - мини-карта%nextMod%Lazydfu - и ещё один мод на оптимизацию%nextMod%LegendaryTooltips - новое оформление рамки предметов разной редкости%nextMod%Macaw's Windows - новые окна%nextMod%Medieval Craft - генерация замков с лутом%nextMod%MoreShips - добавит новые корабли%nextMod%Nutritionalbalance - заставит игрока следит за тем, что и в каком количестве он ест%nextMod%OpenTerrainGenerator(OTG) - новая генерация мира%nextMod%OptiFune - всем известный мод, помогает с оптимизацией%nextMod%PassableFoliage - теперь вы можете проходить сквозь листву%nextMod%performant - улучшает производительность игры, помогает увеличить количество fps%nextMod%PlayerЕx - прокачка в RPG стиле%nextMod%PuzzlesLib - библиотека для работы других модов%nextMod%QuickHarvest - упрощает сбор и посадку урожая%nextMod%Registrator - нужен для работы других модов%nextMod%Repurposed Structures - генерация переработанных, в разы улучшенных данжей%nextMod%Restored Earth - Цель данного мода вернуть в майнкрафт эксклюзивный контент Minecraft: Earth, который был утрачен после того, как mojang заявили о закрытии игры%nextMod%SmallShips - больше кораблей%nextMod%SophisticatedBackpacks - рюкзаки%nextMod%soundfilters - улучшит звуки%nextMod%SpartanWeaponry - добавит большое количество оружия%nextMod%Stalwart Dungeons - добавит 3 подземелья в нижнем мире%nextMod%Structure Gel API - нужен для работы других модов%nextMod%sulfuric - оптимизация работы движка%nextMod%TheForbidden - новые монстры, боссы, оружие%nextMod%TRansliterationLib - нужен для работы других модов%nextMod%ValhelsiaCore - нужен для работы ValhelsiaStructures%nextMod%ValhelsiaStructures - генерация новых структур%nextMod%WallJump - добавит возможность прыгать от стены к стене%nextMod%XPFromHarvset - получайте опыт от ведения сельского хозяйства",
+            "modlist": "Shoulder Surfing%nextMod%Epic Knight Armors and Weapons%nextMod%ApexCore%nextMod%AdChimneys%nextMod%Advancement Plaques%nextMod%AlexsMobs%nextMod%AmbientSounds%nextMod%Aquaculture%nextMod%ArmorPoser%nextMod%AstikorCarts%nextMod%BetterFps%nextMod%Blur%nextMod%Oh The Biomes You'll Go (byg)%nextMod%CameraOverhaul%nextMod%CarryOn%nextMod%Castle in the Sky%nextMod%MrCrayfish’s Furniture (cfm)%nextMod%Chimes%nextMod%Citadel%nextMod%Clumps%nextMod%Configured%nextMod%Construction Wand%nextMod%Create%nextMod%CreativeCore%nextMod%Croptopia%nextMod%CTM%nextMod%CustomNPCs%nextMod%Decorative Blocks%nextMod%DiagonalFences%nextMod%Double Slabs%nextMod%DrinkBeerMod%nextMod%Dungeons Enhanced%nextMod%DynamicSurroundings%nextMod%EatingAnimation%nextMod%Entity Culling%nextMod%EpicFightMod%nextMod%FallingTree%nextMod%FantasyFurniture%nextMod%FarFromHome%nextMod%Faz_Armor%nextMod%FerriteCore%nextMod%FishingReal%nextMod%FlyWheel%nextMod%ForgeEndertech%nextMod%GreekFantasy%nextMod%HYWLA%nextMod%IceAndFire%nextMod%iceberg%nextMod%ImmersiveEngineering%nextMod%InventorySpam%nextMod%InvTweaks%nextMod%IroneChest%nextMod%IroneFurnaces%nextMod%ItemPhysic%nextMod%ItemsDontBreak%nextMod%Jei%nextMod%JourneyMap%nextMod%Lazydfu%nextMod%LegendaryTooltips%nextMod%Macaw's Windows%nextMod%Medieval Craft%nextMod%MoreShips%nextMod%Nutritionalbalance%nextMod%OpenTerrainGenerator(OTG)%nextMod%OptiFune%nextMod%PassableFoliage%nextMod%performant%nextMod%PlayerЕx%nextMod%PuzzlesLib%nextMod%QuickHarvest%nextMod%Registrator%nextMod%Repurposed Structures%nextMod%Restored Earth%nextMod%SmallShips%nextMod%SophisticatedBackpacks%nextMod%soundfilters%nextMod%SpartanWeaponry%nextMod%Stalwart Dungeons%nextMod%Structure Gel API%nextMod%sulfuric%nextMod%TheForbidden%nextMod%TRansliterationLib%nextMod%ValhelsiaCore%nextMod%ValhelsiaStructures%nextMod%WallJump%nextMod%XPFromHarvset",
             "categories": [2, 1],
             "peculiarities": {
                 "ru": [
@@ -369,7 +381,10 @@
                 "enabled": false,
                 "folderName": null
             },
-            "downloadURL": "https://mods.eightyseven.ru/modpacks/MedievalAdventure.rar"
+            "download": {
+                "inStorage": true,
+                "url": "https://mods.eightyseven.ru/modpacks/MedievalAdventure.rar"
+            }
         },
         {
             "id": {
@@ -451,7 +466,10 @@
                 "enabled": true,
                 "folderName": "MoonLight"
             },
-            "downloadURL": "https://mods.eightyseven.ru/modpacks/MoonLight.zip"
+            "download": {
+                "inStorage": true,
+                "url": "https://mods.eightyseven.ru/modpacks/MoonLight.zip"
+            }
         },
         {
             "id": {
@@ -523,7 +541,10 @@
                 "enabled": true,
                 "folderName": "Rise of Engineering"
             },
-            "downloadURL": "https://mods.eightyseven.ru/modpacks/RiseOfEngineering.zip"
+            "download": {
+                "inStorage": true,
+                "url": "https://mods.eightyseven.ru/modpacks/RiseOfEngineering.zip"
+            }
         },
         {
             "id": {
@@ -602,7 +623,10 @@
                 "enabled": false,
                 "folderName": null
             },
-            "downloadURL": "https://mods.eightyseven.ru/modpacks/Purga.zip"
+            "download": {
+                "inStorage": true,
+                "url": "https://mods.eightyseven.ru/modpacks/Purga.zip"
+            }
         },
         {
             "id": {
@@ -687,7 +711,10 @@
                 "enabled": true,
                 "folderName": "After the Death Alternative Final"
             },
-            "downloadURL": "https://mods.eightyseven.ru/modpacks/AtDAF.zip"
+            "download": {
+                "inStorage": true,
+                "url": "https://mods.eightyseven.ru/modpacks/AtDAF.zip"
+            }
         },
         {
             "id": {
@@ -764,7 +791,10 @@
                 "enabled": false,
                 "folderName": null
             },
-            "downloadURL": "https://mods.eightyseven.ru/modpacks/FactoryCraft.zip"
+            "download": {
+                "inStorage": true,
+                "url": "https://mods.eightyseven.ru/modpacks/FactoryCraft.zip"
+            }
         }
     ]
 }
