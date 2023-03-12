@@ -1,35 +1,45 @@
 {
     "modpacks":[
         {
-            "id": 0,
-            "letter_id": "SoTE",
-            "name_ru": "Song of The East",
-            "name_en": "Song of The East",
-            "img": "https://storage.eightyseven.ru/mods/images/modpacks/Song-of-The-East.png",
-            "img_low_bn": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/Song-of-The-East.png",
-            "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/SoTE.jpg",
-            "screenshots": [
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/sote/1.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/sote/2.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/sote/3.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/sote/4.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/sote/5.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/sote/6.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/sote/7.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/sote/8.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/sote/9.png"
-            ],
-            "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/song_of_the_east.png",
-            "trailer": "https://youtu.be/mPrtWLU-5UU",
-            "trailer_embed": "Ej_r_AhWr0Q",
-            "description_ru": "Это магическая сборка с уклоном на восточную тематику. Играя в данный модпак, Вы погрузитесь в новый, волшебный мир, сможете изучить созвездия и магию мелодии. Путешествуйте, собирайте цветы и исследуйте ещё неизведанные земли!",
-            "description_en": "This is a magical assembly with an oriental focus. Playing this modpack, you will immerse yourself in a new, magical world, you can explore the constellations and the magic of the melody. Travel, pick flowers and explore unexplored lands!",
-            "description_full": {
-                "ru": null,
-                "en": null
+            "id": {
+                "number": 0,
+                "letter": "SoTE"
+            },
+            "name": {
+                "ru": "Song of The East",
+                "en": "Song of The East"
+            },
+            "description": {
+                "ru": "Это магическая сборка с уклоном на восточную тематику. Играя в данный модпак, Вы погрузитесь в новый, волшебный мир, сможете изучить созвездия и магию мелодии. Путешествуйте, собирайте цветы и исследуйте ещё неизведанные земли!",
+                "en": "This is a magical assembly with an oriental focus. Playing this modpack, you will immerse yourself in a new, magical world, you can explore the constellations and the magic of the melody. Travel, pick flowers and explore unexplored lands!",
+                "full": null
+            },
+            "imgs": {
+                "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/SoTE.jpg",
+                "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/song_of_the_east.png",
+                "header": {
+                    "normal": "https://storage.eightyseven.ru/mods/images/modpacks/Song-of-The-East.png",
+                    "deep": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/Song-of-The-East.png"
+                },
+                "screenshots": [
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/sote/1.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/sote/2.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/sote/3.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/sote/4.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/sote/5.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/sote/6.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/sote/7.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/sote/8.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/sote/9.png"
+                ]
+            },
+            "media": {
+                "youtube": {
+                    "url": "https://youtu.be/mPrtWLU-5UU",
+                    "embed": "Ej_r_AhWr0Q"
+                }
             },
             "modlist": "Actually Additions - Небольшие механизмы%nextMod%Ambience - Настройка пользовательской музыки%nextMod%AppleSkin - Отображение уровня насыщения%nextMod%Astral Sorcery - Звёздная магия%nextMod%Baubles - Слоты под кольца и амулеты%nextMod%BetterFps - Увеличение количества FPS в игре%nextMod%Better Questing - Квесты%nextMod%Botania - Мистические знания о цветах%nextMod%Charm - Различные обновления мира%nextMod%Chunk Animator - Анимированное прогружение чанков%nextMod%Coloured Tooltips - Настройка подсказок%nextMod%CraftTweaker - Настройка крафтов%nextMod%Custom Main Menu - Кастомное меню%nextMod%Dawn Of Time - Восточный декор%nextMod%Death Counter - Счётчик смертей%nextMod%Extra Utilities - Вспомогательные механизмы%nextMod%Familiar Fauna - Новые мобы%nextMod%Hopper Ducts - Транспортировка через воронки%nextMod%Inventory Tweaks - Сортировка инвентаря%nextMod%JEI - Просмотр предметов и рецептов%nextMod%JourneyMap - Мини-карта%nextMod%Just a Few Fish - Профессиональная рыбалка %nextMod%MultiStorage - Хранилища%nextMod%Nature's Compass - Компас биомов%nextMod%Nethercraft - Улучшенный Ад%nextMod%NoMoreRecipeConflict - Переключение между рецептами%nextMod%Phosphor - Оптимизация освещения%nextMod%Project: Vibrant Journeys - Новые биомы и мобы%nextMod%Quest Book - Книга квестов%nextMod%RealBench - Предметы не выпадают с верстака%nextMod%Roguelike Dungeons - Подземные данжи%nextMod%Rustic - Новые культуры, система алхимии и производства%nextMod%SlashBlade - Катаны%nextMod%Special Mobs - Опасные мобы%nextMod%Tea the Story - Мод о чайной культуре%nextMod%TexFix - Экономия памяти компьютера%nextMod%Thaumcraft - Сложный магический мод%nextMod%The One Probe - Отображение блоков и здоровья%nextMod%TombManyGraves - Могилки%nextMod%Totemic - Магия тотемов%nextMod%Treasure2 - Сундуки с сокровищами%nextMod%VanillaFix - Улучшение производительности",
-            "genres": ["Magic", "Adventures"],
             "categories": [0, 1],
             "peculiarities": {
                 "ru": [
@@ -49,7 +59,10 @@
                     "Craft linking mods"
                 ]
             },
-            "size": "309",
+            "size": {
+                "value": 309,
+                "unit": "mb"
+            },
             "version": "1.12.2",
             "author": "ySh",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/libraries.zip"],
@@ -57,40 +70,50 @@
             "jarFile": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2/1.12.2.jar",
             "mojangVer": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2/1.12.2.json",
             "forgeVer": "https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json",
-            "gameInFolder": true,
-            "gameFolderName": "Song of The East",
+            "gameInFolder": {
+                "enabled": true,
+                "folderName": "Song of The East"
+            },
             "downloadURL": "https://mods.eightyseven.ru/modpacks/SongOfTheEast.zip"
         },
         {
-            "id": 1,
-            "letter_id": "AP",
-            "name_ru": "Adventure’s Path",
-            "name_en": "Adventure’s Path",
-            "img": "https://storage.eightyseven.ru/mods/images/modpacks/Adventure-Path.png",
-            "img_low_bn": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/Adventure-Path.png",
-            "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/AP.jpg",
-            "screenshots": [
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ap/1.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ap/2.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ap/3.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ap/4.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ap/5.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ap/6.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ap/7.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ap/8.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ap/9.png"
-            ],
-            "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/Adventure-Path.png",
-            "trailer": null,
-            "trailer_embed": null,
-            "description_ru": "Похождения на сборке погрузят вас в мир изысканий, путешествий и битв! Путь авантюриста представляет собой прогрессию от низов до Дракона, а затем в Сумеречный лес и до сражения с Херобрином в качестве финального босса",
-            "description_en": "Assembly adventures will immerse you in the world of exploration, travel and battles! The path of the adventurer is a progression from the bottom to the Dragon, and then to the Duskwood and to the battle with Herobrine as the final boss",
-            "description_full": {
-                "ru": "Похождения на сборке погрузят вас в мир изысканий, путешествий и битв! Путь авантюриста представляет собой прогрессию от низов до Дракона, а затем в Сумеречный лес и до сражения с Херобрином в качестве финального босса. Модпак включает в себя: новые механики, усиленных мобов и боссов, опасные данжи. Сориентироваться же в новом мире вам помогут квесты!",
-                "en": "Assembly adventures will immerse you in the world of exploration, travel and battles! The path of the adventurer is a progression from the bottom to the Dragon, and then to the Duskwood and to the battle with Herobrine as the final boss. Modpack includes: new mechanics, enhanced mobs and bosses, dangerous dungeons. Quests will help you navigate in the new world!"
+            "id": {
+                "number": 1,
+                "letter": "AP"
             },
+            "name": {
+                "ru": "Adventure’s Path",
+                "en": "Adventure’s Path"
+            },
+            "description": {
+                "ru": "Похождения на сборке погрузят вас в мир изысканий, путешествий и битв! Путь авантюриста представляет собой прогрессию от низов до Дракона, а затем в Сумеречный лес и до сражения с Херобрином в качестве финального босса",
+                "en": "Assembly adventures will immerse you in the world of exploration, travel and battles! The path of the adventurer is a progression from the bottom to the Dragon, and then to the Duskwood and to the battle with Herobrine as the final boss",
+                "full": {
+                    "ru": "Похождения на сборке погрузят вас в мир изысканий, путешествий и битв! Путь авантюриста представляет собой прогрессию от низов до Дракона, а затем в Сумеречный лес и до сражения с Херобрином в качестве финального босса. Модпак включает в себя: новые механики, усиленных мобов и боссов, опасные данжи. Сориентироваться же в новом мире вам помогут квесты!",
+                    "en": "Assembly adventures will immerse you in the world of exploration, travel and battles! The path of the adventurer is a progression from the bottom to the Dragon, and then to the Duskwood and to the battle with Herobrine as the final boss. Modpack includes: new mechanics, enhanced mobs and bosses, dangerous dungeons. Quests will help you navigate in the new world!"
+                }
+            },
+            "imgs": {
+                "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/AP.jpg",
+                "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/Adventure-Path.png",
+                "header": {
+                    "normal": "https://storage.eightyseven.ru/mods/images/modpacks/Adventure-Path.png",
+                    "deep": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/Adventure-Path.png"
+                },
+                "screenshots": [
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ap/1.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ap/2.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ap/3.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ap/4.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ap/5.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ap/6.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ap/7.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ap/8.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ap/9.png"
+                ]
+            },
+            "media": null,
             "modlist": "Abnormals Core%nextMod%Angry Mobs%nextMod%Antique Atlas%nextMod%Antique Waystones%nextMod%AppleSkin%nextMod%Aquamirae%nextMod%Architectury%nextMod%Artifacts%nextMod%Atmospheric%nextMod%Attribute Fix%nextMod%Backpacked%nextMod%Better Biome Blend%nextMod%Better Third Person%nextMod%BlockCarpentry%nextMod%Burlap Sack%nextMod%Campfire Spawn and Tweaks%nextMod%Catalogue%nextMod%CaveBiomeAPI%nextMod%Cloth Config%nextMod%Clumps%nextMod%Collective%nextMod%Comforts%nextMod%Configured%nextMod%Corail Tombstone%nextMod%Creeper AI Updated%nextMod%Crock Pot%nextMod%Curio of Undying%nextMod%Curios API%nextMod%Curious Armor Stands%nextMod%Darker Depths%nextMod%Default Options%nextMod%Dungeon Crawl%nextMod%Dungeons Enhanced%nextMod%Dynamic Lights Reforged%nextMod%Enchant with Mob%nextMod%End Remastered%nextMod%Enhanced Celestials%nextMod%Entity Collision FPS Fix%nextMod%Environmental%nextMod%ExpandAbility%nextMod%ExpandAbility%nextMod%FTB Backups%nextMod%FTB Library%nextMod%FTB Quests%nextMod%FTB Teams%nextMod%FallingTree%nextMod%FastLeafDecay%nextMod%FastSuite%nextMod%Ferrite Core%nextMod%Forge 36.2.35%nextMod%Gadgets%nextMod%GeckoLib%nextMod%Global GameRules%nextMod%Goblins & Dungeons%nextMod%Goki Stats%nextMod%HLSpells%nextMod%Harder Branch Mining%nextMod%Healing Campfire%nextMod%Health Overlay%nextMod%Herobrin’s Revenge%nextMod%Iceberg%nextMod%Inventory Essentials%nextMod%Inventory Tweaks Renewed%nextMod%Iron Chests%nextMod%Item Filters%nextMod%JEI Enchantment Info%nextMod%Just Enough Effect Descriptions%nextMod%JEI%nextMod%KubeJS%nextMod%Legendary Tooltips%nextMod%Limited Lives%nextMod%Living Chest%nextMod%Magnesium Extras%nextMod%Majrusz Library%nextMod%Majrusz’s Progressive Difficulty%nextMod%MmmMmmMmmMmm%nextMod%Mob Aspects%nextMod%Modern Loading Screen%nextMod%Modular Enchantments%nextMod%Morpheus%nextMod%Mowzie’s Mobs%nextMod%Multi Mine%nextMod%Neat%nextMod%Nether Portal Spread%nextMod%NetherPortalFix%nextMod%Nimble%nextMod%Not Enough Crashes%nextMod%Nyf’s Quiver%nextMod%Obscuria’s Essentials%nextMod%Obscuria’s Tooltips%nextMod%Oculus%nextMod%Oreganized%nextMod%Overloaded Armor Bar%nextMod%PackMenu%nextMod%Pandoras Creatures%nextMod%Patchouli%nextMod%Placebo%nextMod%Presence Footsteps%nextMod%Puzzles Lib%nextMod%Queen Bee%nextMod%Radon%nextMod%Repair Chests%nextMod%Rhino%nextMod%Rough Tweaks%nextMod%Rubidium%nextMod%Savage & Ravage%nextMod%Second Chance%nextMod%Sewing Kit%nextMod%Shret Nether%nextMod%Shutup Experimental Settings%nextMod%Spiders 2.0%nextMod%Stalwart Dungeons%nextMod%StepUp%nextMod%Structure Gel API%nextMod%Structures Compass%nextMod%Stylish Effects%nextMod%TeamDeusVult Tweaks%nextMod%The Conjurer%nextMod%The Endergetic Expansion%nextMod%The Idle%nextMod%The Twilight Forest%nextMod%The Weirding Gadget%nextMod%Tiny Inv%nextMod%Toad Terror%nextMod%Toast Control%nextMod%Tool Belt%nextMod%Traveler’s Titles%nextMod%Traverse Reforged%nextMod%Twilight Tweaks%nextMod%Water Source%nextMod%Waystones%nextMod%XP Tome%nextMod%YUNG’s API%nextMod%YUNG’s Better Dungeons%nextMod%YUNG’s Bridges%nextMod%Anti Creeper Block%nextMod%Dragon Fight%nextMod%Healing Bed%nextMod%MAtmos",
-            "genres": ["RPG", "Adventures"],
             "categories": [2, 1],
             "peculiarities": {
                 "ru": [
@@ -112,7 +135,7 @@
                     "Customized configs"
                 ]
             },
-            "size": "225",
+            "size": 225,
             "version": "1.16.5",
             "author": "Allman",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/libraries.zip"],
@@ -125,34 +148,47 @@
             "downloadURL": "https://mods.eightyseven.ru/modpacks/AdventurerPath.zip"
         },
         {
-            "id": 2,
-            "letter_id": "DHR",
-            "name_ru": "Daily Hard Reboot",
-            "name_en": "Daily Hard Reboot",
-            "img": "https://storage.eightyseven.ru/mods/images/modpacks/Daily-Hard-Reboot.png",
-            "img_low_bn": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/Daily-Hard-Reboot.png",
-            "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/DHR.jpg",
-            "screenshots": [
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/dhr/1.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/dhr/2.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/dhr/3.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/dhr/4.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/dhr/5.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/dhr/7.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/dhr/8.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/dhr/9.jpg"
-            ],
-            "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/Daily-Hard-Reboot.png",
-            "trailer": "https://youtu.be/NEdLs9PKnMo",
-            "trailer_embed": "NEdLs9PKnMo",
-            "description_ru": "В Daily Hard Reboot, в отличие от прошлой версии, акцент делается на усложнении аспекта выживания. Теперь этот процесс будет, действительно, непростым: например, для создания обычной печки, вам придется посетить Незер, до которого, в свою очередь, нужно тоже будет вкалывать и вкалывать…",
-            "description_en": "In Daily Hard Reboot, unlike the previous version, the emphasis is on complicating the aspect of survival. Now this process will be really difficult: for example, to create an ordinary stove, you will have to visit Nether, to which, in turn, you will also need to work hard and work hard...",
-            "description_full": {
-                "ru": "В Daily Hard Reboot, в отличие от прошлой версии, акцент делается на усложнении аспекта выживания. Теперь этот процесс будет, действительно, непростым: например, для создания обычной печки, вам придется посетить Незер, до которого, в свою очередь, нужно тоже будет вкалывать и вкалывать… Но, помимо выживания, на этой сборке вы также сможете открыть для себя новые увлекательные миры и сразиться с интересными боссами!",
-                "en": "In Daily Hard Reboot, unlike the previous version, the emphasis is on complicating the aspect of survival. Now this process will be really difficult: for example, to create an ordinary stove, you will have to visit the Nether, to which, in turn, you will also need to work hard and work hard... But, in addition to surviving, on this assembly you will also be able to discover new exciting worlds and fight interesting bosses!"
+            "id": {
+                "number": 2,
+                "letter": "DHR"
+            },
+            "name": {
+                "ru": "Daily Hard Reboot",
+                "en": "Daily Hard Reboot"
+            },
+            "description": {
+                "ru": "В Daily Hard Reboot, в отличие от прошлой версии, акцент делается на усложнении аспекта выживания. Теперь этот процесс будет, действительно, непростым: например, для создания обычной печки, вам придется посетить Незер, до которого, в свою очередь, нужно тоже будет вкалывать и вкалывать…",
+                "en": "In Daily Hard Reboot, unlike the previous version, the emphasis is on complicating the aspect of survival. Now this process will be really difficult: for example, to create an ordinary stove, you will have to visit Nether, to which, in turn, you will also need to work hard and work hard...",
+                "full": {
+                    "ru": "В Daily Hard Reboot, в отличие от прошлой версии, акцент делается на усложнении аспекта выживания. Теперь этот процесс будет, действительно, непростым: например, для создания обычной печки, вам придется посетить Незер, до которого, в свою очередь, нужно тоже будет вкалывать и вкалывать… Но, помимо выживания, на этой сборке вы также сможете открыть для себя новые увлекательные миры и сразиться с интересными боссами!",
+                    "en": "In Daily Hard Reboot, unlike the previous version, the emphasis is on complicating the aspect of survival. Now this process will be really difficult: for example, to create an ordinary stove, you will have to visit the Nether, to which, in turn, you will also need to work hard and work hard... But, in addition to surviving, on this assembly you will also be able to discover new exciting worlds and fight interesting bosses!"
+                }
+            },
+            "imgs": {
+                "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/DHR.jpg",
+                "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/Daily-Hard-Reboot.png",
+                "header": {
+                    "normal": "https://storage.eightyseven.ru/mods/images/modpacks/Daily-Hard-Reboot.png",
+                    "deep": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/Daily-Hard-Reboot.png"
+                },
+                "screenshots": [
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/dhr/1.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/dhr/2.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/dhr/3.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/dhr/4.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/dhr/5.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/dhr/7.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/dhr/8.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/dhr/9.jpg"
+                ]
+            },
+            "media": {
+                "youtube": {
+                    "url": "https://youtu.be/NEdLs9PKnMo",
+                    "embed": "NEdLs9PKnMo"
+                }
             },
             "modlist": "Aether Legacy – мод, добавляющий новый мир Эфир, который является противопоставлением миру Незера%nextMod%Lost aether content – аддон для The Aether, добавляющий нового босса и новые уникальные предметы в мир Эфира%nextMod%Nether Ex – мод, улучшающий мир Незера, добавляющий в него новые ресурсы, мобов и даже одного босса%nextMod%Pyrotech – мод, ключевым образом меняющий начальное развитие в игре, делая его более реалистичным%nextMod%Embers Rekindled – мод, добавляющий в игру дворфийские технологии, позволяющие игроку удваивать руды, передавать предметы и жидкости на расстояние, создавать новое уникальное оружие и инструменты%nextMod%Embersified – аддон для Embers Rekindled, позволяющий преобразовывать эмберс-энергию в RF%nextMod%Extra Utils 2 – мод, добавляющий в игру полезные дополнения в виде лассо для переноса существ, кольца полета, посоха строителя и др.%nextMod%Arcane Archives - мод, добавляющий в игру магическую систему хранения%nextMod%Leather Works – мод, меняющий механику обработки кожи%nextMod%Fish Undead Rising – мод, добавляющий новых жутких мобов и уникальные предметы, связанные с ними%nextMod%OpenBlocks – мод, добавляющий в игру новые полезные блоки и предметы%nextMod%Quark – мод, улучшающий игру за счет новых блоков и предметов%nextMod%Rustic – мод, улучшающий сельское хозяйство в Minecraft%nextMod%Spartan Compatibility – аддон для Spartan Weaponry, добавляющий поддержку материалов из Aether legacy%nextMod%Spartan Shield – мод, добавляющий новые щиты в игру%nextMod%Spartan Weaponry – мод на новые виды оружия%nextMod%Spartan Weaponry Arcana - аддон для Spartan Weaponry, добавляющий поддержку материалов из Embers Rekindled%nextMod%Tough as Nails – мод, добавляющий в игру жажду%nextMod%Iron Chest - мод на новые сундуки%nextMod%Pam's HarvestCraft - мод на новые виды пищи%nextMod%Cooking for BlockHeads - мод, улучшающий процесс приготовления пищи%nextMod%Junger Overhaul - мод, улучшающий голод в Minecraft%nextMod%AstikorCarts - мод на телеги и плуг%nextMod%Antique Atlas – мод, добавляющий древний атлас, служащий аналогом мини-карты%nextMod%BlockCraftery - мод ,добавляющий блоки с диагональными поверхностями%nextMod%Death Finder – мод, создающий в чате информацию о метке смерти игрока%nextMod%Dynamic Surroundings – мод, улучшающий звуки и некоторые эффекты в игре%nextMod%Dynamic Trees – мод, улучшающий деревья в игре%nextMod%Dynamic trees – extrautils2 –аддон для Dynamic Trees, добавляющий поддержку для деревьев из Extra Utils 2%nextMod%Dynamic trees – quark - аддон для Dynamic Trees, добавляющий поддержку для деревьев из Quark%nextMod%Dynamic trees – PHC - аддон для Dynamic Trees, добавляющий поддержку для деревьев из Pams's HarvestCraft%nextMod%Dynamic trees – the aether - аддон для Dynamic Trees, добавляющий поддержку для деревьев из The Aether%nextMod%Fancy Block Particles – мод, улучшающий частицы игры%nextMod%Mob Dismemberment – мод на расчленение мобов%nextMod%Mo’Bends – мод, заменяющий вид мобов на более реалистичный%nextMod%Nutrition – мод, улучшающий питание в Minecraft, разделяя пищу на разные категории%nextMod%Serene Seasons – мод на времена года%nextMod%Waystones – мод на камни, позволяющие перемешаться в пространстве%nextMod%Big Crafting Tables - мод на верстаки с расширенной сеткой крафта%nextMod%CraftTweaker 2 – мод, позволяющий менять крафты предметов%nextMod%Toast Control – мод, позволяющий скрыть уведомления о достижениях%nextMod%Custom Main Menu – мод позволяющий менять главное меню игры%nextMod%AppleSkin – мод, позволяющий увидеть насыщение от той или иной еды%nextMod%Coloured Tooltips – мод, меняющий цвет фона подсказок%nextMod%The One Probe – мод, добавляющий подсказки о блоках%nextMod%Time HUD – мод на индикатор времени в игру%nextMod%JEI – мод на просмотр рецептов%nextMod%noRecipeBook – мод, убирающий книгу рецептов из Minecraft%nextMod%More Overlays – мод, позволяющий просматривать чанки и уровень освещения%nextMod%Smooth Font – мод, добавляющий в игру новые шрифты%nextMod%FTB Backups – мод на создание бэкапов%nextMod%FTB Quests – мод на создание квестов%nextMod%AI Improvement – мод улучшающий искусственный интеллект мобов%nextMod%Unloader – мод, позволяющий отключить прогрузку измерений%nextMod%Vanilla Fix – мод на оптимизацию%nextMod%FoamFix – мод на оптимизацию игры%nextMod%Phosphor – мод, оптимизирующий игру за счет изменения освещения",
-            "genres": ["Realism", "Adventures"],
             "categories": [3, 1],
             "peculiarities": {
                 "ru": [
@@ -170,7 +206,7 @@
                     "Customized configs and more!"
                 ]
             },
-            "size": "92",
+            "size": 92,
             "version": "1.12.2",
             "author": "Allman",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/libraries.zip"],
@@ -183,35 +219,40 @@
             "downloadURL": "https://mods.eightyseven.ru/modpacks/DailyHardReboot.zip"
         },
         {
-            "id": 3,
-            "letter_id": "MR",
-            "name_ru": "Magic Rocketry",
-            "name_en": "Magic Rocketry",
-            "img": "https://storage.eightyseven.ru/mods/images/modpacks/Magic-Rocketry.png",
-            "img_low_bn": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/Magic-Rocketry.png",
-            "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/MR.jpg",
-            "screenshots": [
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/mr/1.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/mr/2.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/mr/3.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/mr/4.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/mr/5.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/mr/6.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/mr/7.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/mr/8.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/mr/9.jpg"
-            ],
-            "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/Magic-Rocketry.png",
-            "trailer": null,
-            "trailer_embed": null,
-            "description_ru": "В данном модпаке Вам предстоит поэтапно изучить множество модов с сильно усложнёнными крафтами, ради того, чтобы долететь аж до Венеры! Выполняйте квесты, занимайтесь магией, развивайте технологии, сражайтесь с толпами монстров и побеждайте боссов!",
-            "description_en": "In this modpack, you have to gradually learn a lot of mods with highly complicated crafts in order to fly all the way to Venus! Complete quests, practice magic, develop technologies, fight hordes of monsters and defeat bosses!",
-            "description_full": {
-                "ru": null,
-                "en": null
+            "id": {
+                "number": 3,
+                "letter": "MR"
             },
+            "name": {
+                "ru": "Magic Rocketry",
+                "en": "Magic Rocketry"
+            },
+            "description": {
+                "ru": "В данном модпаке Вам предстоит поэтапно изучить множество модов с сильно усложнёнными крафтами, ради того, чтобы долететь аж до Венеры! Выполняйте квесты, занимайтесь магией, развивайте технологии, сражайтесь с толпами монстров и побеждайте боссов!",
+                "en": "In this modpack, you have to gradually learn a lot of mods with highly complicated crafts in order to fly all the way to Venus! Complete quests, practice magic, develop technologies, fight hordes of monsters and defeat bosses!",
+                "full": null
+            },
+            "imgs": {
+                "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/MR.jpg",
+                "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/Magic-Rocketry.png",
+                "header": {
+                    "normal": "https://storage.eightyseven.ru/mods/images/modpacks/Magic-Rocketry.png",
+                    "deep": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/Magic-Rocketry.png"
+                },
+                "screenshots": [
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/mr/1.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/mr/2.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/mr/3.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/mr/4.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/mr/5.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/mr/6.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/mr/7.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/mr/8.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/mr/9.jpg"
+                ]
+            },
+            "media": null,
             "modlist": "Galacticraft, Tinkers Construct, Blood Magic, Evil craft, Immersive Engineering, Grimoire Of Gaia, Applied Energistics 2, Mekanism, А так же множество маленьких модов, ядер и библиотек. Всего в сборке 96 модов!",
-            "genres": ["Magic", "Space"],
             "categories": [0, 4],
             "peculiarities": {
                 "ru": [
@@ -227,7 +268,7 @@
                     "Customized configs"
                 ]
             },
-            "size": "129",
+            "size": 129,
             "version": "1.12.2",
             "author": "creo37",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/libraries.zip"],
@@ -240,32 +281,45 @@
             "downloadURL": "https://mods.eightyseven.ru/modpacks/MagicRocketry.zip"
         },
         {
-            "id": 4,
-            "letter_id": "MA",
-            "name_ru": "Medieval Adventure",
-            "name_en": "Medieval Adventure",
-            "img": "https://storage.eightyseven.ru/mods/images/modpacks/Medieval-Adventure.png",
-            "img_low_bn": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/Medieval-Adventure.png",
-            "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/MA.jpg",
-            "screenshots": [
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ma/1.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ma/2.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ma/3.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ma/4.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ma/5.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ma/6.png"
-            ],
-            "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/Medieval-Adventure.png",
-            "trailer": "https://youtu.be/gvxXZqwsO94",
-            "trailer_embed": "b_omW-rN9d4",
-            "description_ru": "Эта сборка погрузит вас в мир фэнтези и средневековья! Сразитесь с великанами и циклопами, бросьте вызов матери драконов и вырастите своего свирепого ящера! Путешествуйте, исследуйте данжи, найдите летающий город, любуйтесь великолепными видами!",
-            "description_en": "This assembly will immerse you in the world of fantasy and the Middle Ages! Fight giants and cyclops, challenge the mother of dragons and raise your own ferocious lizard! Travel, explore dungeons, find a flying city, enjoy magnificent views!",
-            "description_full": {
-                "ru": "Эта сборка погрузит вас в мир фэнтези и средневековья! Сразитесь с великанами и циклопами, бросьте вызов матери драконов и вырастите своего свирепого ящера! Путешествуйте, исследуйте данжи, найдите летающий город, любуйтесь великолепными видами! Вас ждёт большое разнообразие мобов, красивая генерация мира, огромное количество оружия и брони, новые механики боя, улучшенная рыбалка и не только!",
-                "en": "This assembly will immerse you in the world of fantasy and the Middle Ages! Fight giants and cyclops, challenge the mother of dragons and raise your own ferocious lizard! Travel, explore dungeons, find a flying city, enjoy magnificent views! You will find a wide variety of mobs, beautiful world generation, a huge amount of weapons and armor, new combat mechanics, improved fishing and more!"
+            "id": {
+                "number": 4,
+                "letter": "MA"
+            },
+            "name": {
+                "ru": "Medieval Adventure",
+                "en": "Medieval Adventure"
+            },
+            "description": {
+                "ru": "Эта сборка погрузит вас в мир фэнтези и средневековья! Сразитесь с великанами и циклопами, бросьте вызов матери драконов и вырастите своего свирепого ящера! Путешествуйте, исследуйте данжи, найдите летающий город, любуйтесь великолепными видами!",
+                "en": "This assembly will immerse you in the world of fantasy and the Middle Ages! Fight giants and cyclops, challenge the mother of dragons and raise your own ferocious lizard! Travel, explore dungeons, find a flying city, enjoy magnificent views!",
+                "full": {
+                    "ru": "Эта сборка погрузит вас в мир фэнтези и средневековья! Сразитесь с великанами и циклопами, бросьте вызов матери драконов и вырастите своего свирепого ящера! Путешествуйте, исследуйте данжи, найдите летающий город, любуйтесь великолепными видами! Вас ждёт большое разнообразие мобов, красивая генерация мира, огромное количество оружия и брони, новые механики боя, улучшенная рыбалка и не только!",
+                    "en": "This assembly will immerse you in the world of fantasy and the Middle Ages! Fight giants and cyclops, challenge the mother of dragons and raise your own ferocious lizard! Travel, explore dungeons, find a flying city, enjoy magnificent views! You will find a wide variety of mobs, beautiful world generation, a huge amount of weapons and armor, new combat mechanics, improved fishing and more!"
+                }
+            },
+            "imgs": {
+                "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/MA.jpg",
+                "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/Medieval-Adventure.png",
+                "header": {
+                    "normal": "https://storage.eightyseven.ru/mods/images/modpacks/Medieval-Adventure.png",
+                    "deep": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/Medieval-Adventure.png"
+                },
+                "screenshots": [
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ma/1.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ma/2.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ma/3.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ma/4.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ma/5.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ma/6.png"
+                ]
+            },
+            "media": {
+                "youtube": {
+                    "url": "https://youtu.be/gvxXZqwsO94",
+                    "embed": "b_omW-rN9d4"
+                }
             },
             "modlist": "Shoulder Surfing - новый вид от 3 лица%nextMod%Epic Knight Armors and Weapons - доспехи и оружия рыцарей%nextMod%ApexCore - нужен для работы других модов%nextMod%AdChimneys - дополнение к моды на печки, добавляет дымоходы%nextMod%Advancement Plaques - изменит отображение получения достижения%nextMod%AlexsMobs - добавит множество новых животных%nextMod%AmbientSounds - добавит звуки окружения%nextMod%Aquaculture - более 30 новых рыб%nextMod%ArmorPoser - новые позы стойки для брони%nextMod%AstikorCarts - добавит повозку%nextMod%BetterFps - один из из модов для улучшения оптимизации и поднятия уровня fps%nextMod%Blur - добавит блюр, когда вы открываете инвентарь/чат/меню%nextMod%Oh The Biomes You'll Go (byg) - новые биомы (дополнение к OTG)%nextMod%CameraOverhaul - реалистичное движение камеры%nextMod%CarryOn - теперь вы сможете переносить сундуки/печки/животных%nextMod%Castle in the Sky - новый данж: небесный замок%nextMod%MrCrayfish’s Furniture (cfm) - мод на мебель%nextMod%Chimes - добавит два варианта музыкальных подвесок, которые будут создавать уютный перезвон от ветра%nextMod%Citadel - библиотека для работы некоторых других модов%nextMod%Clumps - опыт будет собираться в большую каплю. Это может поспособствовать увеличению fps%nextMod%Configured - позволит менять конфиг модов прямо в меню forge%nextMod%Construction Wand - палочки для строительства%nextMod%Create - довольно известный индустриальный мод на механизмы. Поможет в автоматизации и не будет сильно выделяться из тематики средневековья%nextMod%CreativeCore - дополнение для работы некоторых модов%nextMod%Croptopia - добавит большое количество еды%nextMod%CTM - дополнение для работы других модов%nextMod%CustomNPCs - добавит настраиваемых npc%nextMod%Decorative Blocks - жаровня, деревянные опоры и сиденья, канделябр, каменный столб и блок цепи%nextMod%DiagonalFences - теперь заборы можно ставить и диагонально%nextMod%Double Slabs - теперь полу-блоки из разного материала можно ставить друг на друга%nextMod%DrinkBeerMod - добавит пивоварение и не только%nextMod%Dungeons Enhanced - генерация новых структур%nextMod%DynamicSurroundings - улучшит звуки в игре%nextMod%EatingAnimation - добавит анимацию когда вы едите%nextMod%Entity Culling - еще один мод для улучшения оптимизации и повышения fps%nextMod%EpicFightMod - добавит новые анимации и механики боя. А также немного брони и оружия%nextMod%FallingTree - так сказать \"трикапитатор\". Упростит добычу дерева%nextMod%FantasyFurniture - еще больше мебели, но в другом стиле%nextMod%FarFromHome - аддон для OTG%nextMod%Faz_Armor - средневековое оружия и броня%nextMod%FerriteCore - очередной мод на оптимизацию, в этот раз ОЗУ%nextMod%FishingReal - новая механика рыбалки%nextMod%FlyWheel - нужен для работы других модов%nextMod%ForgeEndertech - библиотека необходимая для работы всех модов от автора EnderLanky%nextMod%GreekFantasy - мобы из греческой мифологии%nextMod%HYWLA - всем известный мод на \"подсказки\"%nextMod%IceAndFire - чудесный мод на драконов. Также добавляет новые печи/броню/оружие%nextMod%iceberg - библиотека необходимая для работы других модов%nextMod%ImmersiveEngineering - еще один индустриальный мод, который также не будет сильно выходить за рамки тематики%nextMod%InventorySpam - добавит в правый нижний угол оповещения о получении/потере предметов%nextMod%InvTweaks - фильтры для инвентаря/сундуков, которые помогут быстро отсортировать ресурсы%nextMod%IroneChest- новые сундуки%nextMod%IroneFurnaces - новые печи%nextMod%ItemPhysic - физика предметов%nextMod%ItemsDontBreak - теперь после поломки предметы не пропадают из инвентаря, а ждут, пока их починят%nextMod%Jei - всем известный мод, для просмотра новых крафтов%nextMod%JourneyMap - мини-карта%nextMod%Lazydfu - и ещё один мод на оптимизацию%nextMod%LegendaryTooltips - новое оформление рамки предметов разной редкости%nextMod%Macaw's Windows - новые окна%nextMod%Medieval Craft - генерация замков с лутом%nextMod%MoreShips - добавит новые корабли%nextMod%Nutritionalbalance - заставит игрока следит за тем, что и в каком количестве он ест%nextMod%OpenTerrainGenerator(OTG) - новая генерация мира%nextMod%OptiFune - всем известный мод, помогает с оптимизацией%nextMod%PassableFoliage - теперь вы можете проходить сквозь листву%nextMod%performant - улучшает производительность игры, помогает увеличить количество fps%nextMod%PlayerЕx - прокачка в RPG стиле%nextMod%PuzzlesLib - библиотека для работы других модов%nextMod%QuickHarvest - упрощает сбор и посадку урожая%nextMod%Registrator - нужен для работы других модов%nextMod%Repurposed Structures - генерация переработанных, в разы улучшенных данжей%nextMod%Restored Earth - Цель данного мода вернуть в майнкрафт эксклюзивный контент Minecraft: Earth, который был утрачен после того, как mojang заявили о закрытии игры%nextMod%SmallShips - больше кораблей%nextMod%SophisticatedBackpacks - рюкзаки%nextMod%soundfilters - улучшит звуки%nextMod%SpartanWeaponry - добавит большое количество оружия%nextMod%Stalwart Dungeons - добавит 3 подземелья в нижнем мире%nextMod%Structure Gel API - нужен для работы других модов%nextMod%sulfuric - оптимизация работы движка%nextMod%TheForbidden - новые монстры, боссы, оружие%nextMod%TRansliterationLib - нужен для работы других модов%nextMod%ValhelsiaCore - нужен для работы ValhelsiaStructures%nextMod%ValhelsiaStructures - генерация новых структур%nextMod%WallJump - добавит возможность прыгать от стены к стене%nextMod%XPFromHarvset - получайте опыт от ведения сельского хозяйства",
-            "genres": ["RPG", "Adventures"],
             "categories": [2, 1],
             "peculiarities": {
                 "ru": [
@@ -285,7 +339,7 @@
                     "Unique character leveling system"
                 ]
             },
-            "size": "224",
+            "size": 224,
             "version": "1.16.5",
             "author": "JustRius",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/libraries.zip"],
@@ -298,38 +352,51 @@
             "downloadURL": "https://mods.eightyseven.ru/modpacks/MedievalAdventure.rar"
         },
         {
-            "id": 5,
-            "letter_id": "MoonLight",
-            "name_ru": "MoonLight",
-            "name_en": "MoonLight",
-            "img": "https://storage.eightyseven.ru/mods/images/modpacks/MoonLight.png",
-            "img_low_bn": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/MoonLight.png",
-            "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/ML.jpg",
-            "screenshots": [
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/1.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/2.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/3.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/4.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/5.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/6.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/7.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/8.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/9.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/10.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/11.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/12.png"
-            ],
-            "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/MoonLight.png",
-            "trailer": "https://youtu.be/HI6MaLPmAYE",
-            "trailer_embed": "HI6MaLPmAYE",
-            "description_ru": "Ещё одна магическая сборка, для которой мы не пожалели своих мозгов. Это экспериментальный модпак, в котором Вам предстоит погрузиться в новый мир, полный волшебства. Создавайте свои заклинания, исследуйте знания о крови и уничтожайте полчища диких тварей!",
-            "description_en": "Another magical build for which we did not spare our brains. This is an experimental modpack in which you have to immerse yourself in a new world full of magic. Create your spells, research the knowledge of blood and destroy hordes of wild creatures!",
-            "description_full": {
-                "ru": "Ещё одна магическая сборка, для которой мы не пожалели своих мозгов. Это экспериментальный модпак, в котором Вам предстоит погрузиться в новый мир, полный волшебства. Создавайте свои заклинания, исследуйте знания о крови и уничтожайте полчища диких тварей! Основная фишка данной сборки заключается в Вашем дальнейшем выборе: Вы можете стать Охотником и уничтожать злых существ или же Вампиром, чтобы предотвратить распространение добра",
-                "en": "Another magical build for which we did not spare our brains. This is an experimental modpack in which you have to immerse yourself in a new world full of magic. Create your spells, research the knowledge of blood and destroy hordes of wild creatures! The main feature of this assembly is your further choice: you can become a Hunter and destroy evil creatures or a Vampire to prevent the spread of good"
+            "id": {
+                "number": 5,
+                "letter": "MoonLight"
+            },
+            "name": {
+                "ru": "MoonLight",
+                "en": "MoonLight"
+            },
+            "description": {
+                "ru": "Ещё одна магическая сборка, для которой мы не пожалели своих мозгов. Это экспериментальный модпак, в котором Вам предстоит погрузиться в новый мир, полный волшебства. Создавайте свои заклинания, исследуйте знания о крови и уничтожайте полчища диких тварей!",
+                "en": "Another magical build for which we did not spare our brains. This is an experimental modpack in which you have to immerse yourself in a new world full of magic. Create your spells, research the knowledge of blood and destroy hordes of wild creatures!",
+                "full": {
+                    "ru": "Ещё одна магическая сборка, для которой мы не пожалели своих мозгов. Это экспериментальный модпак, в котором Вам предстоит погрузиться в новый мир, полный волшебства. Создавайте свои заклинания, исследуйте знания о крови и уничтожайте полчища диких тварей! Основная фишка данной сборки заключается в Вашем дальнейшем выборе: Вы можете стать Охотником и уничтожать злых существ или же Вампиром, чтобы предотвратить распространение добра",
+                    "en": "Another magical build for which we did not spare our brains. This is an experimental modpack in which you have to immerse yourself in a new world full of magic. Create your spells, research the knowledge of blood and destroy hordes of wild creatures! The main feature of this assembly is your further choice: you can become a Hunter and destroy evil creatures or a Vampire to prevent the spread of good"
+                }
+            },
+            "imgs": {
+                "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/ML.jpg",
+                "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/MoonLight.png",
+                "header": {
+                    "normal": "https://storage.eightyseven.ru/mods/images/modpacks/MoonLight.png",
+                    "deep": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/MoonLight.png"
+                },
+                "screenshots": [
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/1.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/2.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/3.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/4.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/5.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/6.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/7.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/8.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/9.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/10.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/11.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/ml/12.png"
+                ]
+            },
+            "media": {
+                "youtube": {
+                    "url": "https://youtu.be/HI6MaLPmAYE",
+                    "embed": "HI6MaLPmAYE"
+                }
             },
             "modlist": "Ambience - Настройка пользовательской музыки%nextMod%AppleSkin - Отображение уровня насыщения%nextMod%Baubles - Слоты под кольца и амулеты%nextMod%BetterFps - Увеличение количества FPS в игре%nextMod%Bewitchment - Ведьмино колдовство%nextMod%Biomes O' Plenty - Новые биомы%nextMod%Blood Magic - Магия, ритуалы и новые механики%nextMod%Bloodmoon - Багровая луна%nextMod%Chunk Animator - Анимированное прогружение чанков%nextMod%Comforts - Спальные мешки и гамаки%nextMod%Cosmetic Armor Reworked - Броня для демонстрации и защиты%nextMod%CraftTweaker - Настройка крафтов%nextMod%Cuisine - Разнообразная кухня%nextMod%Custom Main Menu - Кастомное меню%nextMod%Death Counter - Счётчик смертей%nextMod%EvilCraft - Тёмная магия%nextMod%Extra Alchemy - Улучшенная алхимия%nextMod%Extra Utilities - Вспомогательные механизмы%nextMod%Fish's Undead Rising - Новые монстры%nextMod%FoamFix - Уменьшение потребляемой памяти %nextMod%Forbidden and Arcanus - Магические предметы и блоки%nextMod%FTB Library - Ядро FTB-модов%nextMod%FTB Quests - Создание своих квестов%nextMod%Furnus - Продвинутые печь и дробитель%nextMod%GraveStone - Могилки%nextMod%HammerX - Молоты, копающие 3х3%nextMod%Inventory Tweaks - Сортировка инвентаря%nextMod%Iron Chests - Сундуки нового поколения%nextMod%JEI - Просмотр предметов и рецептов%nextMod%JourneyMap - Мини-карта%nextMod%More Overlays - Уровень света и отображение чанков%nextMod%Mystical World - Милые существа%nextMod%NoMoreRecipeConflict - Рецепты больше не конфликтуют%nextMod%Phosphor - Оптимизация освещения%nextMod%Rats - Невероятный мод, посвящённый крысам%nextMod%RealBench - Вещи не дропаются с верстака%nextMod%Resource Loader - Ядро для CMM %nextMod%Roguelike Dungeons - Подземные данжи%nextMod%Roots - Магия друидов%nextMod%Simple Storage Network - Автоматизация хранения%nextMod%Smooth Font - Улучшенный шрифт%nextMod%Soul Shards Respawn - Создание спавнера%nextMod%The One Probe - Отображение блоков и здоровья%nextMod%Unique Enchantments - Новые чары%nextMod%Vampires Need Umbrellas - Зонтики для вампиров%nextMod%Vampirism - Наука о вампирах и охотниках%nextMod%Vampirism Integrations - Совмещение с другими модами%nextMod%VanillaFix - Улучшение производительности",
-            "genres": ["Magic", "Adventures"],
             "categories": [0, 1],
             "peculiarities": {
                 "ru": [
@@ -349,7 +416,7 @@
                     "A lot of configured configs, which we do not recommend climbing into"
                 ]
             },
-            "size": "209",
+            "size": 209,
             "version": "1.12.2",
             "author": "ySh",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/libraries.zip"],
@@ -362,35 +429,43 @@
             "downloadURL": "https://mods.eightyseven.ru/modpacks/MoonLight.zip"
         },
         {
-            "id": 6,
-            "letter_id": "RoE",
-            "name_ru": "Rise of Engineering",
-            "name_en": "Rise of Engineering",
-            "img": "https://storage.eightyseven.ru/mods/images/modpacks/Rise-of-Engineering.png",
-            "img_low_bn": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/Rise-of-Engineering.png",
-            "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/RoE.jpg",
-            "screenshots": [
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/roe/1.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/roe/2.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/roe/3.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/roe/4.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/roe/5.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/roe/6.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/roe/7.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/roe/8.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/roe/9.png"
-            ],
-            "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/Rise-of-Engineering.png",
-            "trailer": null,
-            "trailer_embed": null,
-            "description_ru": "Сборка предлагает Вам опробовать новый игровой опыт изучения технологий в Майнкрафт. Развитие здесь строится на поэтапном освоении каждой из основных модификаций. Вы не сможете сразу же создать реактивный ранец или бур, для этого придётся проделать нелёгкий путь из цепочек крафтов",
-            "description_en": "The assembly invites you to try out a new game experience of learning technologies in Minecraft. The development here is based on the phased development of each of the main modifications. You will not be able to immediately create a jetpack or a drill, for this you will have to go through a difficult path from crafting chains",
-            "description_full": {
-                "ru": "Сборка предлагает Вам опробовать новый игровой опыт изучения технологий в Майнкрафт. Развитие здесь строится на поэтапном освоении каждой из основных модификаций. Вы не сможете сразу же создать реактивный ранец или бур, для этого придётся проделать нелёгкий путь из цепочек крафтов. Прохождение сборки начнётся с Create, после изучения которого появится больше возможностей в других модах",
-                "en": "The assembly invites you to try out a new game experience of learning technologies in Minecraft. The development here is based on the phased development of each of the main modifications. You will not be able to immediately create a jetpack or a drill, for this you will have to go through a difficult path from crafting chains. The assembly walkthrough will start with Create, after studying which there will be more opportunities in other mods"
+            "id": {
+                "number": 6,
+                "letter": "RoE"
             },
+            "name": {
+                "ru": "Rise of Engineering",
+                "en": "Rise of Engineering"
+            },
+            "description": {
+                "ru": "Сборка предлагает Вам опробовать новый игровой опыт изучения технологий в Майнкрафт. Развитие здесь строится на поэтапном освоении каждой из основных модификаций. Вы не сможете сразу же создать реактивный ранец или бур, для этого придётся проделать нелёгкий путь из цепочек крафтов",
+                "en": "The assembly invites you to try out a new game experience of learning technologies in Minecraft. The development here is based on the phased development of each of the main modifications. You will not be able to immediately create a jetpack or a drill, for this you will have to go through a difficult path from crafting chains",
+                "full": {
+                    "ru": "Сборка предлагает Вам опробовать новый игровой опыт изучения технологий в Майнкрафт. Развитие здесь строится на поэтапном освоении каждой из основных модификаций. Вы не сможете сразу же создать реактивный ранец или бур, для этого придётся проделать нелёгкий путь из цепочек крафтов. Прохождение сборки начнётся с Create, после изучения которого появится больше возможностей в других модах",
+                    "en": "The assembly invites you to try out a new game experience of learning technologies in Minecraft. The development here is based on the phased development of each of the main modifications. You will not be able to immediately create a jetpack or a drill, for this you will have to go through a difficult path from crafting chains. The assembly walkthrough will start with Create, after studying which there will be more opportunities in other mods"
+                }
+            },
+            "imgs": {
+                "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/RoE.jpg",
+                "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/Rise-of-Engineering.png",
+                "header": {
+                    "normal": "https://storage.eightyseven.ru/mods/images/modpacks/Rise-of-Engineering.png",
+                    "deep": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/Rise-of-Engineering.png"
+                },
+                "screenshots": [
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/roe/1.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/roe/2.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/roe/3.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/roe/4.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/roe/5.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/roe/6.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/roe/7.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/roe/8.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/roe/9.png"
+                ]
+            },
+            "media": null,
             "modlist": "Create - Уникальные технологии, позволяющие развить автоматизацию в мире Майнкрафт. На Create строится изучение всей сборки, не тронув его, игрок не сможет продвинуться дальше%nextMod%Integrated Dynamics - Мод, который позволит Вам создать обширную систему из механизмов на своей базе%nextMod%Powah - Новые способы генерации энергии и переработки предметов%nextMod%Refined Storage - Совершенная система хранения%nextMod%Resourceful Bees - Модификация добавит пчёл, из продукции которых Вы сможете добывать ресурсы%nextMod%Silents Mechanisms - Продвинутые механизмы переработки, позволяющие удваивать ресурсы или преобразовывать нефть в пластик%nextMod%Autumnity - Добавляет осенний контент: биомы, мобы, еда и строительные блоки%nextMod%Better Mineshafts - Обновление ванильных заброшенных шахт%nextMod%Better Storage Too - Новые виды хранилищ%nextMod%Builders Crafts & Additions - Предметы и блоки для украшения Вашего жилища%nextMod%Buzzier Bees - Больше контента пчеловодам%nextMod%Charm Reforged - Мод, который внесёт множество интересных нововведений. Советую изучить его самостоятельно!%nextMod%Chunk Loaders - Прогрузчики чанков%nextMod%Crafting Station - Верстак, из которого больше не будут выпадать предметы%nextMod%Create : Stuff Additions - Дополнение к моду Create. Теперь в Вашем арсенале появятся: экзоскелетные нагрудники, реактивные ранцы и дрель%nextMod%Curios - Отдельный слот для рюкзаков%nextMod%The Endergetic Expansion - Мод, добавляющий новые биомы в Энде%nextMod%EnderTanks - Эндер-хранилища%nextMod%Farmers Delight - Разнообразие Вашей кухне никогда не повредит, верно? Вот и я так подумал! Модификация добавляет новые культуры, способы готовки и сытную еду%nextMod%Geode - Новый моб, которого можно встретить в шахте%nextMod%Global XP - Хранение опыта в одном блоке%nextMod%Integrated Crafting - Создание вещей в системе%nextMod%Integrated Tunnels - Передача предметов, жидкости и энергии по той самой системе%nextMod%Iron Chests - Новые сундуки, отличающиеся по своей вместимости%nextMod%Refined Pipes - Независимые трубы для передачи предметов, жидкости и энергии%nextMod%Gauges and Switches - Красивые рычажки и предметы управления%nextMod%Savage & Ravage - Новые виды разбойников и их мест обитания%nextMod%Simple Drills - Дрели, копающие 3x3%nextMod%Simple Planes - Мод позволит Вам создать воздушный транспорт%nextMod%Sophisticated Backpacks - Рюкзаки для хранения предметов%nextMod%Storage Drawers - Ящики, чтобы держать свои вещи в безопасности%nextMod%Supplementaries - Море нового игрового контента%nextMod%Wonderful Enchantments - Полезные чарыквестов%nextMod%AppleSkin - Модификация, показывающая уровень насыщения от той или иной еды%nextMod%Chunk-Pregenerator - Оптимизированное создание мира%nextMod%Clumps - Объединение маленьких сфер опыта в одну%nextMod%Coloured Tooltips - Модификация, позволяющая настроить цвет всплывающих подсказок в игре%nextMod%Corpse - Могилы с вещами, которые остаются после смерти игрока%nextMod%CraftTweaker - Мод, с которым Вы сможете изменять или даже добавлять крафты%nextMod%Fast Leaf Decay - Листва опадёт после того, как игрок срубит всё дерево%nextMod%FastSuite - Улучшение производительности рецептов%nextMod%FTB Backups - Периодические сохранения Вашего мира%nextMod%FTB Chunks - Удобная мини-карта с возможностью выделения чанков для прогрузки%nextMod%FTB Quests - Создание и настройка своих собственных квестов%nextMod%Just Enough Items (JEI) - Просмотр всех предметов и их рецептов%nextMod%Just Enough Resources (JER) - Аддон, показывающий полезную информацию о дропе с мобов и растений, о генерации руд и о возможном луте в данжах%nextMod%More Overlays Updated - Просмотр уровня освещённости территории, а также границ чанков%nextMod%Notes - Внутриигровые заметки%nextMod%Out Of Sight - Корректировка частоты кадров%nextMod%PackMenu - Создание своего уникального меню%nextMod%Polymorph - Мод, избавляющий Вас от проблем при совпадении рецептов из установленных модов%nextMod%Smooth Boot - Плавная загрузка игры%nextMod%Starter Kit - Настройка стартового набора предметов%nextMod%StepUp - Улучшенный автопрыжок%nextMod%The One Probe - Всплывающие на экране подсказки с информацией о блоке или мобе%nextMod%TrashSlot - Корзинка для удаления предметов прямо в инвентаре",
-            "genres": ["Industrial", "Adventures"],
             "categories": [5, 1],
             "peculiarities": {
                 "ru": [
@@ -408,7 +483,7 @@
                     "In-Game notes [N Key]"
                 ]
             },
-            "size": "76",
+            "size": 76,
             "version": "1.16.5",
             "author": "ySh",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.1.0/libraries.zip"],
@@ -421,35 +496,48 @@
             "downloadURL": "https://mods.eightyseven.ru/modpacks/RiseOfEngineering.zip"
         },
         {
-            "id": 7,
-            "letter_id": "Purga",
-            "name_ru": "Пурга — Проба пера",
-            "name_en": "Purga — First draft",
-            "img": "https://storage.eightyseven.ru/mods/images/modpacks/Purga-First-draft.png",
-            "img_low_bn": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/Purga-First-draft.png",
-            "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/Purga.jpg",
-            "screenshots": [
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/purga/1.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/purga/2.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/purga/3.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/purga/4.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/purga/5.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/purga/6.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/purga/7.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/purga/8.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/purga/9.png"
-            ],
-            "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/Purga-First-draft.png",
-            "trailer": "https://youtu.be/ekqCz1dvZyc",
-            "trailer_embed": "ekqCz1dvZyc",
-            "description_ru": "В этой сборке вам предстоит испытать себя и свои нервные клетки. Автору понадобилось 28 смертей (двадцать восемь обморожений персонажа, ты действовал наверняка, пытался разжечь костёр, но ничего не вышло?!), чтобы достигнуть стабильного положения в игре!",
-            "description_en": "In this assembly, you have to test yourself and your nerve cells. It took the author 28 deaths (twenty-eight character frostbites, you acted for sure, tried to light a fire, but nothing happened?!) to reach a stable position in the game!",
-            "description_full": {
-                "ru": "В этой сборке вам предстоит испытать себя и свои нервные клетки. Автору понадобилось 28 смертей (двадцать восемь обморожений персонажа, ты действовал наверняка, пытался разжечь костёр, но ничего не вышло?!), чтобы достигнуть стабильного положения в игре! В самом начале игры придётся начинать с палок и камней. Здесь вам поможет только удача наткнуться на домик в бесконечной пурге",
-                "en": "In this assembly, you have to test yourself and your nerve cells. It took the author 28 deaths (twenty-eight character frostbites, you acted for sure, tried to light a fire, but nothing happened?!) to reach a stable position in the game! At the very beginning of the game, you will have to start with sticks and stones. Here only luck will help you to stumble upon a house in an endless snowstorm"
+            "id": {
+                "number": 7,
+                "letter": "Purga"
+            },
+            "name": {
+                "ru": "Пурга — Проба пера",
+                "en": "Purga — First draft"
+            },
+            "description": {
+                "ru": "В этой сборке вам предстоит испытать себя и свои нервные клетки. Автору понадобилось 28 смертей (двадцать восемь обморожений персонажа, ты действовал наверняка, пытался разжечь костёр, но ничего не вышло?!), чтобы достигнуть стабильного положения в игре!",
+                "en": "In this assembly, you have to test yourself and your nerve cells. It took the author 28 deaths (twenty-eight character frostbites, you acted for sure, tried to light a fire, but nothing happened?!) to reach a stable position in the game!",
+                "full": {
+                    "ru": "В этой сборке вам предстоит испытать себя и свои нервные клетки. Автору понадобилось 28 смертей (двадцать восемь обморожений персонажа, ты действовал наверняка, пытался разжечь костёр, но ничего не вышло?!), чтобы достигнуть стабильного положения в игре! В самом начале игры придётся начинать с палок и камней. Здесь вам поможет только удача наткнуться на домик в бесконечной пурге",
+                    "en": "In this assembly, you have to test yourself and your nerve cells. It took the author 28 deaths (twenty-eight character frostbites, you acted for sure, tried to light a fire, but nothing happened?!) to reach a stable position in the game! At the very beginning of the game, you will have to start with sticks and stones. Here only luck will help you to stumble upon a house in an endless snowstorm"
+                }
+            },
+            "imgs": {
+                "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/Purga.jpg",
+                "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/Purga-First-draft.png",
+                "header": {
+                    "normal": "https://storage.eightyseven.ru/mods/images/modpacks/Purga-First-draft.png",
+                    "deep": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/Purga-First-draft.png"
+                },
+                "screenshots": [
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/purga/1.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/purga/2.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/purga/3.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/purga/4.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/purga/5.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/purga/6.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/purga/7.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/purga/8.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/purga/9.png"
+                ]
+            },
+            "media": {
+                "youtube": {
+                    "url": "https://youtu.be/ekqCz1dvZyc",
+                    "embed": "ekqCz1dvZyc"
+                }
             },
             "modlist": "PRIMAL WINTER%nextMod%TOUGH AS NAILS%nextMod%SURVIVAL OVERHAUL%nextMod%DOPMODGFPLOT%nextMod%DOPMODGFPERGA%nextMod%DYNAMIC TREES%nextMod%TOTAL DARKNESS%nextMod%SIMPLE FLASHLIGHT PORT%nextMod%DALEENY'S MOREFOODS%nextMod%FARMER'S DELIGHT%nextMod%DUNGEONS ENHANCED%nextMod%BETTER DUNGEONS%nextMod%WANDERING TRAPPER%nextMod%EATING ANIMATION%nextMod%NOT ENOUGH ANIMATIONS%nextMod%FURNISH%nextMod%DAY COUNTER%nextMod%ANTIQUE ATLAS%nextMod%BREAD AND ROOLS%nextMod%CUMBERSOME%nextMod%CAMERAOVERHAUL%nextMod%TABLE TOP CRAFT%nextMod%CARRY ON%nextMod%ENHANCED CELESTIALS%nextMod%CONNECTIBLE CHAINS%nextMod%DARK PAINTINGS%nextMod%FARMER'S RESPITE%nextMod%VISUAL WORKBENCH%nextMod%SCREENSCALE%nextMod%CAMPFIRE OVERHAUL%nextMod%NUTRITIONAL BALANCE%nextMod%SАNITY AND INSАNITY%nextMod%NATURAL PROGRESSION%nextMod%REALISTIC TORCHES%nextMod%STRUCTURES' COMPASS%nextMod%IMPROVED MOBS%nextMod%BURDEN OF TIME%nextMod%FIRST-PERSON MODEL%nextMod%BETTER BURNING%nextMod%YDM'S WEAPON MASTER%nextMod%NEKO'S ENCHANTED BOOKS%nextMod%FANCYMENU%nextMod%LOADMYRESOURCES",
-            "genres": ["Hardcore", "Adventures"],
             "categories": [6, 1],
             "peculiarities": {
                 "ru": [
@@ -469,7 +557,7 @@
                     "New food and mechanics in cooking and farming"
                 ]
             },
-            "size": "444",
+            "size": 444,
             "version": "1.16.5",
             "author": "GemesFoxes",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.35/libraries.zip"],
@@ -482,42 +570,52 @@
             "downloadURL": "https://mods.eightyseven.ru/modpacks/Purga.zip"
         },
         {
-            "id": 8,
-            "letter_id": "AtDAF",
-            "name_ru": "After the Death — Alternative Final",
-            "name_en": "After the Death — Alternative Final",
-            "img": "https://storage.eightyseven.ru/mods/images/modpacks/After-The-Death.png",
-            "img_low_bn": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/After-The-Death.png",
-            "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/AtDAF.jpg",
-            "screenshots": [
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/1.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/2.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/3.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/4.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/5.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/6.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/7.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/8.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/9.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/10.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/12.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/13.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/14.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/15.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/16.png",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/17.png"
-            ],
-            "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/atdaf.png",
-            "trailer": "https://youtu.be/Zxa0zgan06Q",
-            "trailer_embed": "Zxa0zgan06Q",
-            "description_ru": "Это индустриальная сборка, погружающая игрока в апокалиптический мир. Вы будете вынуждены постоянно сражаться за свою жизнь, попутно открывая для себя новые горизонты. Создавайте продвинутые технологии, отбивайтесь от полчищ паразитов и ликанитов, путешествуйте по новым измерениям и просто веселитесь!",
-            "description_en": "This is an industrial assembly that immerses the player in an apocalyptic world. You will be forced to constantly fight for your life, simultaneously opening up new horizons for yourself. Create advanced technologies, fight off hordes of parasites and lycanites, travel through new dimensions and just have fun!",
-            "description_full": {
-                "ru": null,
-                "en": null
+            "id": {
+                "number": 8,
+                "letter": "AtDAF"
+            },
+            "name": {
+                "ru": "After the Death — Alternative Final",
+                "en": "After the Death — Alternative Final"
+            },
+            "description": {
+                "ru": "Это индустриальная сборка, погружающая игрока в апокалиптический мир. Вы будете вынуждены постоянно сражаться за свою жизнь, попутно открывая для себя новые горизонты. Создавайте продвинутые технологии, отбивайтесь от полчищ паразитов и ликанитов, путешествуйте по новым измерениям и просто веселитесь!",
+                "en": "This is an industrial assembly that immerses the player in an apocalyptic world. You will be forced to constantly fight for your life, simultaneously opening up new horizons for yourself. Create advanced technologies, fight off hordes of parasites and lycanites, travel through new dimensions and just have fun!",
+                "full": null
+            },
+            "imgs": {
+                "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/AtDAF.jpg",
+                "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/atdaf.png",
+                "header": {
+                    "normal": "https://storage.eightyseven.ru/mods/images/modpacks/After-The-Death.png",
+                    "deep": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/After-The-Death.png"
+                },
+                "screenshots": [
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/1.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/2.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/3.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/4.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/5.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/6.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/7.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/8.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/9.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/10.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/12.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/13.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/14.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/15.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/16.png",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/atd/17.png"
+                ]
+            },
+            "media": {
+                "youtube": {
+                    "url": "https://youtu.be/Zxa0zgan06Q",
+                    "embed": "Zxa0zgan06Q"
+                }
             },
             "modlist": "OPTIFINE%nextMod%PHOSPHOR%nextMod%BETTERFPS%nextMod%VANILLAFIX%nextMod%JEI%nextMod%JOURNEY MAP%nextMod%IRON CHESTS%nextMod%TRAVELER'S BACKPACK%nextMod%FALLING TREE%nextMod%NEAT%nextMod%MEKANISM%nextMod%ENCHANTING PLUS%nextMod%SCAPE AND RUN PARASITES%nextMod%ZOMBIE AWARENESS%nextMod%LYCANITES MOBS%nextMod%THE LOST CITIES%nextMod%BIBLIOCRAFT%nextMod%BLOODMOON%nextMod%CRAFTTWEAKER%nextMod%ATOMICSTRYKER'S INFERNAL MOBS%nextMod%LEVEL UP HP%nextMod%CRIOGONAL'S ZOMBIES MOD%nextMod%HUNTER ZOMBIE%nextMod%TECHGUNS%nextMod%MUTANT BEASTS%nextMod%ROUGH MOBS 2%nextMod%HARDCORE DARKNESS%nextMod%DYNAMIC LIGHTS%nextMod%ANIMALIUM%nextMod%FTB QUESTS%nextMod%THE EREBUS%nextMod%THE AURORIAN%nextMod%GLACIDUS%nextMod%BETTER HUD%nextMod%CUSTOM STARTER GEAR%nextMod%NETHER ORES PLUS+%nextMod%GALACTICRAFT%nextMod%EXTRA PLANETS%nextMod%MORE PLANETS%nextMod%INVENTORY TWEAKS%nextMod%PATCHOULI%nextMod%SRP VACCINE%nextMod%BUILDING GADGETS%nextMod%AFTER THE DEATH: SUNSET",
-            "genres": ["Hardcore", "Adventures"],
             "categories": [6, 1],
             "peculiarities": {
                 "ru": [
@@ -539,7 +637,7 @@
                     "The atmosphere of a genuine apocalypse, intertwined with the comedy of the absurd"
                 ]
             },
-            "size": "733",
+            "size": 733,
             "version": "1.12.2",
             "author": "Last Librarian",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.12.2-14.23.5.2860/libraries.zip"],
@@ -552,39 +650,44 @@
             "downloadURL": "https://mods.eightyseven.ru/modpacks/AtDAF.zip"
         },
         {
-            "id": 9,
-            "letter_id": "FactoryCraft",
-            "name_ru": "FactoryCraft",
-            "name_en": "FactoryCraft",
-            "img": "https://storage.eightyseven.ru/mods/images/modpacks/FactoryCraft.png",
-            "img_low_bn": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/FactoryCraft.png",
-            "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/FC.jpg",
-            "screenshots": [
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/1.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/2.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/3.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/4.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/5.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/6.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/7.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/8.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/9.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/10.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/11.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/12.jpg",
-                "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/13.jpg"
-            ],
-            "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/factorycraft.png",
-            "trailer": null,
-            "trailer_embed": null,
-            "description_ru": "Данная уникальная техническая сборка включает в себя более 100 модов, среди которых есть популярные Immersive Engineering, Industrial Foregoing, Space-Bosstools и др. В процессе игры Вы пройдёте по эпохам развития, сможете построить фабрики и заводы, а впоследствии - отправитесь покорять космос!",
-            "description_en": "This unique technical assembly includes more than 100 mods, among which are the popular Immersive Engineering, Industrial Foregoing, Space-Bosstools, etc. During the game, you will go through the eras of development, you can build factories and plants, and then go to conquer space!",
-            "description_full": {
-                "ru": null,
-                "en": null
+            "id": {
+                "number": 9,
+                "letter": "FactoryCraft"
             },
+            "name": {
+                "ru": "FactoryCraft",
+                "en": "FactoryCraft"
+            },
+            "description": {
+                "ru": "Данная уникальная техническая сборка включает в себя более 100 модов, среди которых есть популярные Immersive Engineering, Industrial Foregoing, Space-Bosstools и др. В процессе игры Вы пройдёте по эпохам развития, сможете построить фабрики и заводы, а впоследствии - отправитесь покорять космос!",
+                "en": "This unique technical assembly includes more than 100 mods, among which are the popular Immersive Engineering, Industrial Foregoing, Space-Bosstools, etc. During the game, you will go through the eras of development, you can build factories and plants, and then go to conquer space!",
+                "full": null
+            },
+            "imgs": {
+                "thumb": "https://storage.eightyseven.ru/mods/images/modpacks/thumb/FC.jpg",
+                "logo": "https://storage.eightyseven.ru/mods/images/modpacks/logo/factorycraft.png",
+                "header": {
+                    "normal": "https://storage.eightyseven.ru/mods/images/modpacks/FactoryCraft.png",
+                    "deep": "https://storage.eightyseven.ru/mods/images/modpacks/low-bn/FactoryCraft.png"
+                },
+                "screenshots": [
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/1.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/2.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/3.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/4.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/5.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/6.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/7.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/8.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/9.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/10.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/11.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/12.jpg",
+                    "https://storage.eightyseven.ru/mods/images/modpacks/screenshots/fc/13.jpg"
+                ]
+            },
+            "media": null,
             "modlist": null,
-            "genres": ["Industrial", "Realism"],
             "categories": [5, 3],
             "peculiarities": {
                 "ru": [
@@ -606,7 +709,7 @@
                     "Edited loot tables"
                 ]
             },
-            "size": "211",
+            "size": 211,
             "version": "1.16.5",
             "author": "Allman",
             "libraries": ["https://storage.eightyseven.ru/mods/forge/forge-1.16.5-36.2.20/libraries.zip"],
