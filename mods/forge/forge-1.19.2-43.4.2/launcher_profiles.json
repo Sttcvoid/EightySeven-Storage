@@ -1,0 +1,41 @@
+{
+  "profiles" : {
+    "52d7618a7a8981e3daf1cb63afd46645" : {
+      "created" : "1970-01-01T00:00:00.000Z",
+      "icon" : "Crafting_Table",
+      "lastUsed" : "1970-01-01T00:00:00.000Z",
+      "lastVersionId" : "latest-snapshot",
+      "name" : "",
+      "type" : "latest-snapshot"
+    },
+    "b50d3635bf05baa1fb1a9dcc86179574" : {
+      "created" : "1970-01-02T00:00:00.000Z",
+      "icon" : "Grass",
+      "lastUsed" : "1970-01-02T00:00:00.000Z",
+      "lastVersionId" : "latest-release",
+      "name" : "",
+      "type" : "latest-release"
+    },
+    "forge" : {
+      "icon" : "data:image/png;base64,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",
+      "lastUsed" : "2022-12-30T11:48:41.460Z",
+      "lastVersionId" : "1.19.2-forge-43.4.2",
+      "name" : "Modpack",
+      "type" : "custom"
+    }
+  },
+  "settings" : {
+    "crashAssistance" : true,
+    "enableAdvanced" : false,
+    "enableAnalytics" : true,
+    "enableHistorical" : false,
+    "enableReleases" : false,
+    "enableSnapshots" : false,
+    "keepLauncherOpen" : false,
+    "profileSorting" : "ByLastPlayed",
+    "showGameLog" : false,
+    "showMenu" : false,
+    "soundOn" : false
+  },
+  "version" : 3
+}
